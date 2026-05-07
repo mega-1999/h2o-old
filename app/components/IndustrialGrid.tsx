@@ -21,7 +21,7 @@ const h2oSegments = [
 
 export const IndustrialGrid = () => {
     return (
-        <section className="py-24 bg-white overflow-hidden">
+        <section className="py-6 bg-white overflow-hidden">
             <div className="w-full mx-auto px-4 sm:px-6 lg:px-8">
 
                 {/* --- HEADER --- */}

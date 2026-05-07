@@ -14,7 +14,7 @@ const h2oCategories = [
   { title: "Special Application", tag: "Engineering", img: "/assets/data/industry/SPECIAL APPLICATIONS/key.3 - Copy.png" },
   { title: "Gas Products", tag: "Energy", img: "/assets/data/industry/GAS PROODUCT/MONITERING WELL STATION.12 - Copy.png" },
   { title: "Flanges", tag: "Connection", img: "/assets/data/industry/VL - 8B.21.png" },
-  { title: "Meter Boxes", tag: "Measurement", img: "/assets/data/industry/VL - 8B.21.png" },
+  { title: "Meter Boxes", tag: "Measurement", img: "/assets/meter boxes/6.svg" },
   { title: "Three Piece Valve Boxes", tag: "Assembly", img: "/assets/data/industry/THREE PIS VALVE BOXES/4 valve box.7 - Copy.jpg" },
 ];
 
@@ -81,7 +81,7 @@ export const IndustryIndex = () => {
                    <button className="text-[12px] font-black text-[#004aad] uppercase tracking-[0.3em] flex items-center gap-3 hover:gap-5 transition-all">
                       Open Catalog <ArrowUpRight className="w-5 h-5 stroke-[3px]" />
                    </button>
-                   <span className="text-[10px] font-bold text-slate-300 uppercase tracking-[0.4em]">
+                   <span className="text-[10px] font-bold text-slate-400 uppercase tracking-[0.4em]">
                      Asset: H2O-{index + 101}
                    </span>
                 </div>

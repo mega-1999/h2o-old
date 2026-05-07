@@ -21,7 +21,7 @@ export const Hero = ({ videoSrc, gifSrc }: HeroProps) => {
           loop
           muted
           playsInline
-          className="w-full h-full object-cover pointer-events-none brightness-[0.7]"
+          className="w-full h-full object-cover pointer-events-none brightness-100"
         >
           <source src={videoSrc} type="video/mp4" />
         </video>

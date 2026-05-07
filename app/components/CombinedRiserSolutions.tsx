@@ -45,7 +45,7 @@ const RISER_SECTIONS = [
     overline: "Discover  H20",
     title: "Data Center Solutions",
     highlightText: "H2O Industries",
-    description: "See how our water management solutions are helping cutting- edge data centers power the future.", 
+    description: "See how our water management solutions are helping cutting- edge data centers power the future.",
     video: "/assets/videos/139719_Large wave crashing in the ocean _By_Olivier_Sautet_Artlist_HD.mp4",
 
     features: [
@@ -173,7 +173,7 @@ export default function ComprehensivePavingRisersMapped() {
 
                   <div className="pt-4">
                     <Link href={section.buttonLink}>
-                      <Button className={`h-12 px-8 font-bold uppercase tracking-wider transition-all ${isDark ? 'bg-white text-zinc-950 hover:bg-[#004aad] hover:text-white' : 'bg-[#004aad] text-white hover:bg-[#1B79EE]'}`}>
+                      <Button className="bg-[#004aad] hover:bg-[#1B79EE] text-white font-black px-8 py-6 rounded-none text-sm uppercase tracking-[0.2em] transition-all shadow-[4px_4px_0px_rgba(27,121,238,0.2)] border-none">
                         {section.buttonText} <ArrowRight className="ml-2 h-4 w-4" />
                       </Button>
                     </Link>

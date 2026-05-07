@@ -80,7 +80,7 @@ export const FullWidthShowcase = () => {
 
               {/* Call to Action */}
               <div className="pt-6">
-                <Button className="bg-[#1B79EE] hover:bg-white hover:text-[#004aad] text-white font-black uppercase tracking-[0.2em] px-12 py-8 rounded-none transition-all shadow-2xl border-none">
+                <Button className="bg-[#004aad] hover:bg-[#1B79EE] text-white font-black px-8 py-6 rounded-none text-sm uppercase tracking-[0.2em] transition-all shadow-[4px_4px_0px_rgba(27,121,238,0.2)] border-none">
                   Explore Solution <ArrowRight className="ml-3 w-5 h-5" />
                 </Button>
               </div>

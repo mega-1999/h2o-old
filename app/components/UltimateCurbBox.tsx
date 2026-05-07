@@ -3,6 +3,7 @@
 import React from 'react';
 import { Shield, Settings, Ruler, Download, ArrowRight, CheckCircle2 } from 'lucide-react';
 import Image from 'next/image';
+import { Button } from '@/components/ui/button';
 
 export const UltimateCurbBox = () => {
     return (
@@ -94,12 +95,12 @@ export const UltimateCurbBox = () => {
 
                         {/* Massive Call to Action Buttons */}
                         <div className="flex flex-col sm:flex-row gap-6 pt-6">
-                            <button className="flex-1 bg-[#004aad] text-white px-12 py-8 text-[13px] font-black uppercase tracking-[0.4em] hover:bg-[#1B79EE] transition-all flex items-center justify-center gap-4 shadow-2xl shadow-[#004aad]/30">
+                            <Button className="bg-[#004aad] hover:bg-[#1B79EE] text-white font-black px-8 py-6 rounded-none text-sm uppercase tracking-[0.2em] transition-all shadow-[4px_4px_0px_rgba(27,121,238,0.2)] border-none">
                                 Download Specs <Download className="w-6 h-6" />
-                            </button>
-                            <button className="flex-1 border-4 border-[#004aad] text-[#004aad] px-12 py-8 text-[13px] font-black uppercase tracking-[0.4em] hover:bg-slate-50 transition-all flex items-center justify-center gap-4">
+                            </Button>
+                            <Button className="bg-white hover:bg-[#1B79EE] text-[#004aad] hover:text-white font-black px-8 py-6 rounded-none text-sm uppercase tracking-[0.2em] transition-all shadow-[4px_4px_0px_rgba(27,121,238,0.2)] border-none">
                                 Request Quote <ArrowRight className="w-6 h-6" />
-                            </button>
+                            </Button>
                         </div>
                     </div>
                 </div>

@@ -99,7 +99,7 @@ export const Resources = () => {
                Need Specific Technical Data?
              </h3>
              <p className="text-slate-500 text-base mb-10 font-medium max-w-xl mx-auto">Request custom submittals for your specific industrial catch basin configuration and compliance requirements.</p>
-             <Button className="bg-[#1B79EE] hover:bg-[#004aad] text-white rounded-none px-14 py-8 font-black uppercase tracking-[0.3em] transition-all shadow-xl shadow-[#1B79EE]/20">
+             <Button className="bg-[#004aad] hover:bg-[#1B79EE] text-white font-black px-8 py-6 rounded-none text-sm uppercase tracking-[0.2em] transition-all shadow-[4px_4px_0px_rgba(27,121,238,0.2)] border-none">
                Contact Engineering
              </Button>
           </div>

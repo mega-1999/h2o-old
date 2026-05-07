@@ -21,7 +21,7 @@ export default function Home() {
     <div className="relative min-h-screen w-full text-white overflow-hidden">
 
       <Hero
-        videoSrc="/assets/hero_background.mp4"
+        videoSrc="/assets/videos/102284_Drops of water falling onto water and splashing_By_Via_Films_Artlist_HD.mp4"
         gifSrc="/assets/umbrella_preview.gif"
       />
       <UltimateCurbBox />
