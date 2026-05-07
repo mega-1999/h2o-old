@@ -15,6 +15,7 @@ import { UltimateCurbBox } from "./components/UltimateCurbBox";
 import { IndustrialGrid } from "./components/IndustrialGrid";
 import { FullScreenGif } from "./components/FullScreenGif";
 import { TechnicalShowcase } from "./components/TechnicalShowcase";
+import { ArchStyleCurbBox } from "./components/ArchStyleCurbBox";
 
 export default function Home() {
   return (
@@ -34,6 +35,7 @@ export default function Home() {
       <SustainableEngineering />
       <ComprehensivePavingRisersMapped />
       <Resources />
+      <ArchStyleCurbBox/>
       <FullWidthShowcase />
       <IndustrySegments />
       <Heros />
