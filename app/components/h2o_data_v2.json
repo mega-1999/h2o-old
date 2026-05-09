@@ -1,0 +1,1105 @@
+[
+  {
+    "category": "Corporation Stops",
+    "subcategories": [
+      {
+        "name": "Corp Stops-AWWA-Ball Style",
+        "items": [
+          {
+            "name": "74701B 3/4 BALL CORP AWWA X FLARE - NL",
+            "id": "5133-116",
+            "price": "$116.80"
+          },
+          {
+            "name": "74701B 1 BALL CORP AWWA X FLARE - NL",
+            "id": "5133-113",
+            "price": "$149.87"
+          },
+          {
+            "name": "74701B 1 1/2 BALL CORP AWWA X FLARE - NL",
+            "id": "5133-110",
+            "price": "$354.84"
+          },
+          {
+            "name": "74701B 2 BALL CORP AWWA X FLARE - NL",
+            "id": "5133-107",
+            "price": "$619.85"
+          },
+          {
+            "name": "74701BQ 3/4 BALL CORP AWWA X CTS - NL",
+            "id": "5182-028",
+            "price": "$120.38"
+          },
+          {
+            "name": "74701BQ 1 BALL CORP AWWA X CTS - NL",
+            "id": "5182-049",
+            "price": "$158.32"
+          },
+          {
+            "name": "74701BQ 1 1/2 BALL CORP AWWA X CTS 16P - NL",
+            "id": "5182-172",
+            "price": "$354.84"
+          },
+          {
+            "name": "74701BQ 2 BALL CORP AWWA X CTS 16P - NL",
+            "id": "5182-167",
+            "price": "$586.91"
+          },
+          {
+            "name": "74701B-22 3/4 BALL CORP AWWA X CTS - NL",
+            "id": "5133-152",
+            "price": "$120.38"
+          },
+          {
+            "name": "74701B-22 1 BALL CORP AWWA X CTS - NL",
+            "id": "5133-163",
+            "price": "$158.32"
+          },
+          {
+            "name": "74701B-22 1 1/2 BALL CORP AWWA X CTS 16P - NL",
+            "id": "5133-172",
+            "price": "$354.84"
+          },
+          {
+            "name": "74701B-22 2 BALL CORP AWWA X CTS 16P - NL",
+            "id": "",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "name": "Corp Stops-MNPT-Ball Style",
+        "items": []
+      },
+      {
+        "name": "Corp Stops-AWWA-Plug Style",
+        "items": []
+      },
+      {
+        "name": "Corp Stops-MNPT-Plug Style",
+        "items": []
+      },
+      {
+        "name": "Corporation Adapters",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Accessories",
+    "subcategories": [
+      {
+        "name": "Straight AWWA Adapters",
+        "items": []
+      },
+      {
+        "name": "Insert Stiffeners",
+        "items": []
+      },
+      {
+        "name": "U-Branch / Valve Ass'y",
+        "items": []
+      },
+      {
+        "name": "Ball Valves",
+        "items": []
+      },
+      {
+        "name": "Inline Dual Check Valves",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Service Saddles",
+    "subcategories": [
+      {
+        "name": "Brass Hinged Saddles-AWWA",
+        "items": []
+      },
+      {
+        "name": "Brass Hinged Saddles-FNPT",
+        "items": []
+      },
+      {
+        "name": "Brass Two Bolt Saddles -AWWA",
+        "items": []
+      },
+      {
+        "name": "Brass Two Bolt Saddles -FNPT",
+        "items": []
+      },
+      {
+        "name": "DBL 4 BOLT BRASS STRAP-AWWA",
+        "items": []
+      },
+      {
+        "name": "DBL 4 BOLT BRASS STRAP-FNPT",
+        "items": []
+      },
+      {
+        "name": "DBL Bronze Bale Saddles-AWWA",
+        "items": []
+      },
+      {
+        "name": "DBL Bronze Bale Saddles-FNPT",
+        "items": []
+      },
+      {
+        "name": "DBL SS Strap Saddles-AWWA",
+        "items": []
+      },
+      {
+        "name": "DBL SS Strap Saddles-FNPT",
+        "items": []
+      },
+      {
+        "name": "NL DBL SS Strap SDL - AWWA",
+        "items": []
+      },
+      {
+        "name": "NL DBL SS Strap SDL - FNPT",
+        "items": []
+      },
+      {
+        "name": "NL Wide SS Strap SDL - AWWA",
+        "items": []
+      },
+      {
+        "name": "NL Wide SS Strap SDL - FNPT",
+        "items": []
+      },
+      {
+        "name": "SGL 4 BOLT BRASS STRAP-FNPT",
+        "items": []
+      },
+      {
+        "name": "SGL Bronze Bale Saddles-AWWA",
+        "items": []
+      },
+      {
+        "name": "SGL Bronze Bale Saddles-FNPT",
+        "items": []
+      },
+      {
+        "name": "SGL SS Strap Saddles-AWWA",
+        "items": []
+      },
+      {
+        "name": "SGL SS Strap Saddles-FNPT",
+        "items": []
+      },
+      {
+        "name": "Swing Connect Saddles-AWWA",
+        "items": []
+      },
+      {
+        "name": "Swing Connect Saddles-FNPT",
+        "items": []
+      },
+      {
+        "name": "Wide SS Strap Saddles-AWWA",
+        "items": []
+      },
+      {
+        "name": "Wide SS Strap Saddles-FNPT",
+        "items": []
+      },
+      {
+        "name": "TITAN Bolt",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Curb Stops",
+    "subcategories": [
+      {
+        "name": "Blow-Off BV-COMPxFNPT",
+        "items": []
+      },
+      {
+        "name": "Blow-Off BV-COMPxFNPT w/DRN",
+        "items": []
+      },
+      {
+        "name": "Blow-Off BV-COMPxMNPT",
+        "items": []
+      },
+      {
+        "name": "Blow-Off BV-COMPxMNPT w/DRN",
+        "items": []
+      },
+      {
+        "name": "Blow-Off BV-FLARExMNPT",
+        "items": []
+      },
+      {
+        "name": "Blow-Off BV-FNPTxFNPT",
+        "items": []
+      },
+      {
+        "name": "Blow-Off BV-FNPTxFNPT w/DRN",
+        "items": []
+      },
+      {
+        "name": "Blow-Off BV-FNPTxMNPT",
+        "items": []
+      },
+      {
+        "name": "Blow-Off BV-FNPTxMNPT w/DRN",
+        "items": []
+      },
+      {
+        "name": "FP Angle BV-COMPxCOMP",
+        "items": []
+      },
+      {
+        "name": "FP Angle BV-COMPxFNPT",
+        "items": []
+      },
+      {
+        "name": "FP Angle BV-COMPxMNPT",
+        "items": []
+      },
+      {
+        "name": "FP Angle BV-FLARExFLARE",
+        "items": []
+      },
+      {
+        "name": "FP Angle BV-FLARExFNPT",
+        "items": []
+      },
+      {
+        "name": "FP Angle BV-FLR,FNPT,MNPT,Comp",
+        "items": []
+      },
+      {
+        "name": "FP Angle BV-FNPTxCOMP",
+        "items": []
+      },
+      {
+        "name": "FP Angle BV-FNPTxFLARE",
+        "items": []
+      },
+      {
+        "name": "FP Angle BV-FNPTxFNPT",
+        "items": []
+      },
+      {
+        "name": "Inverted PV-COMPxCOMP",
+        "items": []
+      },
+      {
+        "name": "Inverted PV-FLARExFLARE",
+        "items": []
+      },
+      {
+        "name": "Inverted PV-FLARExFNPT",
+        "items": []
+      },
+      {
+        "name": "Inverted PV-FNPTxFNPT",
+        "items": []
+      },
+      {
+        "name": "Reduced Angle BV-COMPxCOMP",
+        "items": []
+      },
+      {
+        "name": "Reduced Angle BV-COMPxFNPT",
+        "items": []
+      },
+      {
+        "name": "Reduced Angle BV-FLARExFLARE",
+        "items": []
+      },
+      {
+        "name": "Reduced Angle BV-FLARExFNPT",
+        "items": []
+      },
+      {
+        "name": "Reduced Angle BV-FNPTxCOMP",
+        "items": []
+      },
+      {
+        "name": "Reduced Angle BV-FNPTxFLARE",
+        "items": []
+      },
+      {
+        "name": "Reduced Angle BV-FNPTxFNPT",
+        "items": []
+      },
+      {
+        "name": "Repair STR BV-COMPxCOMP w/LW",
+        "items": []
+      },
+      {
+        "name": "Repair STR BV-COMPxFNPT w/LW",
+        "items": []
+      },
+      {
+        "name": "Repair STR BV-FLARExCOMP",
+        "items": []
+      },
+      {
+        "name": "Repair STR Minn BV-COMPxCOMP",
+        "items": []
+      },
+      {
+        "name": "Repair STR Minn BV-COMPxFNPT",
+        "items": []
+      },
+      {
+        "name": "Repair STR Minn BV-FLARExCOMP",
+        "items": []
+      },
+      {
+        "name": "Repair Straight BV-COMPxCOMP",
+        "items": []
+      },
+      {
+        "name": "Repair Straight BV-COMPxFNPT",
+        "items": []
+      },
+      {
+        "name": "REPAIR STRAIGHT BV-COMPxMNPT",
+        "items": []
+      },
+      {
+        "name": "Right Open BV-COMPxCOMP",
+        "items": []
+      },
+      {
+        "name": "Right Open BV-FLARExFLARE",
+        "items": []
+      },
+      {
+        "name": "Right Open BV-FNPTxFNPT",
+        "items": []
+      },
+      {
+        "name": "Right Open S&D COMPxCOMP",
+        "items": []
+      },
+      {
+        "name": "Right Open S&D FLARExFLARE",
+        "items": []
+      },
+      {
+        "name": "Right Open S&D FNPTxFNPT",
+        "items": []
+      },
+      {
+        "name": "ST MINN BV-DIELECTRIC BUSHING",
+        "items": []
+      },
+      {
+        "name": "STOP & DRAIN MIN-COMPxCOMP",
+        "items": []
+      },
+      {
+        "name": "STOP & DRAIN MIN-COMPxFNPT",
+        "items": []
+      },
+      {
+        "name": "STOP & DRAIN MIN-FLARExFLARE",
+        "items": []
+      },
+      {
+        "name": "STOP & DRAIN MIN-FNPTxFNPT",
+        "items": []
+      },
+      {
+        "name": "Stop & Drain-COMPxCOMP",
+        "items": []
+      },
+      {
+        "name": "Stop & Drain-COMPxFNPT",
+        "items": []
+      },
+      {
+        "name": "Stop & Drain-FLARExFLARE",
+        "items": []
+      },
+      {
+        "name": "Stop & Drain-FLARExFNPT",
+        "items": []
+      },
+      {
+        "name": "Stop & Drain-FLR, COMP OR FNPT",
+        "items": []
+      },
+      {
+        "name": "Stop & Drain-FNPTxFNPT",
+        "items": []
+      },
+      {
+        "name": "STR BV-DIELECTRIC BUSHING LW",
+        "items": []
+      },
+      {
+        "name": "Straight BV-COMPxCOMP",
+        "items": []
+      },
+      {
+        "name": "Straight BV-COMPxCOMP w/LW",
+        "items": []
+      },
+      {
+        "name": "Straight BV-COMPXFLR",
+        "items": []
+      },
+      {
+        "name": "Straight BV-COMPXFLR W/LW",
+        "items": []
+      },
+      {
+        "name": "Straight BV-COMPxFNPT",
+        "items": []
+      },
+      {
+        "name": "Straight BV-COMPxFNPT W/LW",
+        "items": []
+      },
+      {
+        "name": "STRAIGHT BV-COMPxMNPT",
+        "items": []
+      },
+      {
+        "name": "STRAIGHT BV-COMPxMNPT w/LW",
+        "items": []
+      },
+      {
+        "name": "Straight BV-DIELECTRIC BUSHING",
+        "items": []
+      },
+      {
+        "name": "Straight BV-FLARExFLARE",
+        "items": []
+      },
+      {
+        "name": "Straight BV-FLARExFLARE w/LW",
+        "items": []
+      },
+      {
+        "name": "Straight BV-FLARExFNPT",
+        "items": []
+      },
+      {
+        "name": "Straight BV-FLARExFNPT W/LW",
+        "items": []
+      },
+      {
+        "name": "STRAIGHT BV-FLARExMNPT",
+        "items": []
+      },
+      {
+        "name": "STRAIGHT BV-FLR/COMPxFNPT W/LW",
+        "items": []
+      },
+      {
+        "name": "STRAIGHT BV-FNPTXFNPT",
+        "items": []
+      },
+      {
+        "name": "Straight BV-FNPTXFNPT W/LW",
+        "items": []
+      },
+      {
+        "name": "STRAIGHT BV-FNPTxMNPT",
+        "items": []
+      },
+      {
+        "name": "STRAIGHT BV-FNPTxMNPT w/LW",
+        "items": []
+      },
+      {
+        "name": "Straight BV-Insulated",
+        "items": []
+      },
+      {
+        "name": "STRAIGHT BV-MNPTxMNPT",
+        "items": []
+      },
+      {
+        "name": "STRAIGHT BV-MNPTxMNPT w/LW",
+        "items": []
+      },
+      {
+        "name": "Straight Minn BV-COMPxCOMP",
+        "items": []
+      },
+      {
+        "name": "Straight Minn BV-COMPxFLARE",
+        "items": []
+      },
+      {
+        "name": "Straight Minn BV-COMPxFNPT",
+        "items": []
+      },
+      {
+        "name": "Straight Minn BV-FLARExFLARE",
+        "items": []
+      },
+      {
+        "name": "Straight Minn BV-FLARExFNPT",
+        "items": []
+      },
+      {
+        "name": "Straight Minn BV-FNPTxFNPT",
+        "items": []
+      },
+      {
+        "name": "Straight Minn BV-FNPTxMNPT",
+        "items": []
+      },
+      {
+        "name": "STRAIGHT BV-MINN-Insulated",
+        "items": []
+      },
+      {
+        "name": "Straight Tapered PV-FNPT",
+        "items": []
+      },
+      {
+        "name": "Tapered Angle PV-COMPxFNPT",
+        "items": []
+      },
+      {
+        "name": "Tapered Angle PV-FLARExFNPT",
+        "items": []
+      },
+      {
+        "name": "Tapered Angle PV-FNPTxFNPT",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Meter Valves",
+    "subcategories": []
+  },
+  {
+    "category": "Curb Boxes",
+    "subcategories": []
+  },
+  {
+    "category": "Service Fittings",
+    "subcategories": [
+      {
+        "name": "Angle-Restricted Flow FPBV",
+        "items": []
+      },
+      {
+        "name": "Angle-Restricted Flow SPBV",
+        "items": []
+      },
+      {
+        "name": "Meter Valves-Angle-Full Port",
+        "items": []
+      },
+      {
+        "name": "Meter Valves-Angle-STD Port",
+        "items": []
+      },
+      {
+        "name": "Meter Valves-Ball Style",
+        "items": []
+      },
+      {
+        "name": "Meter Valves-Ball Style S&D",
+        "items": []
+      },
+      {
+        "name": "Meter Valves-Angle-Plug",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Meter Couplings & Accessories",
+    "subcategories": [
+      {
+        "name": "Meter Couplings-Straight",
+        "items": []
+      },
+      {
+        "name": "Meter Couplings-Full Flange",
+        "items": []
+      },
+      {
+        "name": "Meter Couplings-Oval Flange",
+        "items": []
+      },
+      {
+        "name": "Meter Couplings-Round Flange",
+        "items": []
+      },
+      {
+        "name": "Meter Couplings-Quarter Bend",
+        "items": []
+      },
+      {
+        "name": "Meter Couplings-Eighth Bend",
+        "items": []
+      },
+      {
+        "name": "Meter Gaskets",
+        "items": []
+      },
+      {
+        "name": "Meter Adapters",
+        "items": []
+      },
+      {
+        "name": "Tees",
+        "items": []
+      },
+      {
+        "name": "Insulated Meter Couplings",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Single & Dual Checks",
+    "subcategories": [
+      {
+        "name": "Single Check Valves",
+        "items": []
+      },
+      {
+        "name": "Inline Dual Check Valves",
+        "items": []
+      },
+      {
+        "name": "Angle Dual Check Valves",
+        "items": []
+      },
+      {
+        "name": "Oval Flanged Angle Dual Check",
+        "items": []
+      },
+      {
+        "name": "Inline Accessible Dual Check",
+        "items": []
+      },
+      {
+        "name": "Angle Cascading Dual Check",
+        "items": []
+      },
+      {
+        "name": "Inline Y Cascading Dual Check",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Unmeasured Flow Reducer (UFR)",
+    "subcategories": [
+      {
+        "name": "UFR-With Check Valve-Inline",
+        "items": []
+      },
+      {
+        "name": "UFR-Inline",
+        "items": []
+      },
+      {
+        "name": "UFR-Inline Accesible",
+        "items": []
+      },
+      {
+        "name": "UFR-Angled",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Copper Meter Resetters",
+    "subcategories": [
+      {
+        "name": "Tandem Resetters-Horizontal",
+        "items": []
+      },
+      {
+        "name": "Tandem Resetters-Inline",
+        "items": []
+      },
+      {
+        "name": "Tandem Resetters-Inverted",
+        "items": []
+      },
+      {
+        "name": "Meter Resetters-Flexible",
+        "items": []
+      },
+      {
+        "name": "710 Series",
+        "items": []
+      },
+      {
+        "name": "Meter Resetters-Low Rise",
+        "items": []
+      },
+      {
+        "name": "Meter Resetters-Horizontal",
+        "items": []
+      },
+      {
+        "name": "Meter Resetters-Vert to Horiz",
+        "items": []
+      },
+      {
+        "name": "Meter Resetters-Inverted",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Sampling Station",
+    "subcategories": [
+      {
+        "name": "Resetters",
+        "items": []
+      },
+      {
+        "name": "Sampling Station Fitting",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Copper Meter Setters",
+    "subcategories": [
+      {
+        "name": "Copper Meter Setters-Horiz",
+        "items": []
+      },
+      {
+        "name": "Copper Meter Setters-Vertical",
+        "items": []
+      },
+      {
+        "name": "Copper MTR, Setters-Vert/Hori",
+        "items": []
+      },
+      {
+        "name": "F Style Meter Setters",
+        "items": []
+      },
+      {
+        "name": "F Style Tandem Meter Setters",
+        "items": []
+      },
+      {
+        "name": "L-Style Meter Setters",
+        "items": []
+      },
+      {
+        "name": "L-Style Setters - Adjustable",
+        "items": []
+      },
+      {
+        "name": "Copper Meter Setters-No Rise",
+        "items": []
+      },
+      {
+        "name": "Tandem Setters-Horiz",
+        "items": []
+      },
+      {
+        "name": "Tandem Setters-Vertical",
+        "items": []
+      },
+      {
+        "name": "Meter Idler",
+        "items": []
+      },
+      {
+        "name": "Union End Piece",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Copper Meter Insetters",
+    "subcategories": [
+      {
+        "name": "C Style",
+        "items": []
+      },
+      {
+        "name": "K Style",
+        "items": []
+      },
+      {
+        "name": "H Style",
+        "items": []
+      },
+      {
+        "name": "M Style",
+        "items": []
+      },
+      {
+        "name": "Union End Piece",
+        "items": []
+      },
+      {
+        "name": "PU Style",
+        "items": []
+      },
+      {
+        "name": "PZ Style",
+        "items": []
+      },
+      {
+        "name": "PZ Style-Right offest",
+        "items": []
+      },
+      {
+        "name": "W Style",
+        "items": []
+      },
+      {
+        "name": "UFR-Inline",
+        "items": []
+      },
+      {
+        "name": "Adapters",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Pit Setters",
+    "subcategories": [
+      {
+        "name": "Dual Riser Style Pit Setters",
+        "items": []
+      },
+      {
+        "name": "Tandem Riser Style Pit Setters",
+        "items": []
+      },
+      {
+        "name": "Risers Only",
+        "items": []
+      },
+      {
+        "name": "Dual Coil Style Pit Setters",
+        "items": []
+      },
+      {
+        "name": "Tandem Coil Pit Setters",
+        "items": []
+      },
+      {
+        "name": "Adjustable Tandem Pit",
+        "items": []
+      },
+      {
+        "name": "Riser Style Pit Setters",
+        "items": []
+      },
+      {
+        "name": "Iron Yoke Pit",
+        "items": []
+      },
+      {
+        "name": "Flat Lid Pit Assembly",
+        "items": []
+      },
+      {
+        "name": "Coil Style Pit Setters",
+        "items": []
+      },
+      {
+        "name": "Adjustable Pit Setters",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Meter Box Frames & Covers",
+    "subcategories": [
+      {
+        "name": "Recessed-A Style",
+        "items": []
+      },
+      {
+        "name": "Recessed-AC Style",
+        "items": []
+      },
+      {
+        "name": "Non Recessed-C Style",
+        "items": []
+      },
+      {
+        "name": "Non Recessed-AC Style",
+        "items": []
+      },
+      {
+        "name": "Recessed-W Style",
+        "items": []
+      },
+      {
+        "name": "Monitor Style",
+        "items": [
+          {
+            "name": "74M24LBTTIL FLANGE 24-RISER& RECESSED COVER 20 LB - OFST HOLE (2) IN LID",
+            "id": "4173-158",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "name": "PR Style",
+        "items": []
+      },
+      {
+        "name": "Rotational Style",
+        "items": []
+      },
+      {
+        "name": "90 Style Pit Lids",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Iron Yokes",
+    "subcategories": [
+      {
+        "name": "Yoke Bars",
+        "items": []
+      },
+      {
+        "name": "Yoke Dual Check Valves",
+        "items": []
+      },
+      {
+        "name": "Yoke Single Check Valves",
+        "items": []
+      },
+      {
+        "name": "Yoke Expanders",
+        "items": []
+      },
+      {
+        "name": "Yoke Inline Acc Dual Check",
+        "items": []
+      },
+      {
+        "name": "UFR For Yoke",
+        "items": []
+      },
+      {
+        "name": "Wrenches",
+        "items": []
+      },
+      {
+        "name": "Star Nuts & Gaskets",
+        "items": []
+      },
+      {
+        "name": "Yoke Valves-Plug Style",
+        "items": []
+      },
+      {
+        "name": "Yoke Valves-Angle-STD Port",
+        "items": []
+      },
+      {
+        "name": "Yoke Valves-Angle-Full Port",
+        "items": []
+      },
+      {
+        "name": "Yoke Valves-Straight",
+        "items": []
+      },
+      {
+        "name": "Yoke Valves-Straight W/LW",
+        "items": []
+      },
+      {
+        "name": "Yoke Couplings",
+        "items": []
+      },
+      {
+        "name": "Yoke Quarter Bends",
+        "items": []
+      },
+      {
+        "name": "Yoke Quarter Bends W/LW",
+        "items": []
+      },
+      {
+        "name": "Yoke Retro Couplings",
+        "items": []
+      },
+      {
+        "name": "Yoke Retro Quarter Bend",
+        "items": []
+      },
+      {
+        "name": "Yoke Check Valves",
+        "items": []
+      },
+      {
+        "name": "Yoke Angle Dual Check",
+        "items": []
+      },
+      {
+        "name": "Yoke U-Branch Assemblies",
+        "items": []
+      },
+      {
+        "name": "Yoke Assemblies",
+        "items": []
+      },
+      {
+        "name": "Yoke PKG-Not Assembled",
+        "items": []
+      }
+    ]
+  },
+  {
+    "category": "Meter Boxes",
+    "subcategories": [
+      {
+        "name": "G Series Meter Box",
+        "items": []
+      },
+      {
+        "name": "Double Gulf Boxes",
+        "items": []
+      },
+      {
+        "name": "Repair Parts",
+        "items": []
+      },
+      {
+        "name": "Yoke Boxes",
+        "items": []
+      },
+      {
+        "name": "Long Yoke Boxes",
+        "items": []
+      },
+      {
+        "name": "CR Boxes",
+        "items": []
+      },
+      {
+        "name": "Lids",
+        "items": []
+      },
+      {
+        "name": "Pro Box",
+        "items": []
+      }
+    ]
+  }
+]
