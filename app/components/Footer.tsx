@@ -6,30 +6,10 @@ export const Footer = () => {
   const darkBlue = "#004aad";
 
   return (
-    <footer className="w-full bg-white text-[#004aad] pt-24 pb-12 border-t border-gray-800">
-      <div className="max-w-400 mx-auto px-4 sm:px-6 lg:px-8 ">
+    <footer className="w-full bg-white text-[#004aad]   pb-12 border-t border-gray-800">
+      <div className="w-full px-10 md:px-20 ">
         
-        {/* Top Section: Logo & Statement */}
-        <div className="flex flex-col md:flex-row justify-between items-start mb-20 gap-10">
-          <div className="space-y-6 max-w-sm">
-            <Image 
-              src="/assets/H2O LOGO PNG.png" 
-              alt="H2O Logo" 
-              width={200} 
-              height={40} 
-              className="object-contain"
-            />
-            <p className="text-lg leading-relaxed font-medium text-[#1B79EE] uppercase tracking-wider">
-              Advanced filtration technology for global industrial transformation.
-            </p>
-          </div>
-          
-          <div className="flex flex-col text-right">
-             <span className="text-[10px] font-black uppercase tracking-[0.4em] opacity-30">Established</span>
-             <span className="text-4xl font-black italic text-[#1B79EE]">2026</span>
-          </div>
-        </div>
-
+ 
         {/* Middle Section: Address Grid */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-16 border-y border-gray-100 py-16">
           

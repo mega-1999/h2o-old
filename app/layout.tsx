@@ -5,8 +5,9 @@ import { cn } from "@/lib/utils";
 import { Navbar } from "./components/Navbar";
 import { Footer } from "./components/Footer";
 import TopNavbarr from "./components/top-navbarr";
+import ExtraordinaryFooter from "./components/ExtraordinaryFooter";
 
-const inter = Inter({subsets:['latin'],variable:'--font-sans'});
+const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -43,12 +44,12 @@ export default function RootLayout({
       className={cn("h-full", "antialiased", geistSans.variable, geistMono.variable, "font-sans", inter.variable)}
     >
       <body className="min-h-full flex flex-col">
-        <TopNavbarr/>
-        <Navbar/>
-        
+        <TopNavbarr />
+        <Navbar />
+
         {children}
-        
-        <Footer/>
+        <ExtraordinaryFooter />
+        <Footer />
       </body>
     </html>
   );
