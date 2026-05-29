@@ -17,16 +17,17 @@ import { FullScreenGif } from "./components/FullScreenGif";
 import { TechnicalShowcase } from "./components/TechnicalShowcase";
 import { ArchStyleCurbBox } from "./components/ArchStyleCurbBox";
 import { TrailerModal } from "./components/TrailerModal";
+import { H2OProductExplorer } from "./components/H2OProductExplorer";
+
 
 export default function Home() {
-   return (
+  return (
     <div className="relative min-h-screen w-full text-white overflow-hidden">
       <Hero
         videoSrc="/assets/videos/102284_Drops of water falling onto water and splashing_By_Via_Films_Artlist_HD.mp4"
         gifSrc="/assets/umbrella_preview.gif"
       />
       <TrailerModal videoSrc="/assets/videos/102284_Drops of water falling onto water and splashing_By_Via_Films_Artlist_HD.mp4" />
-
       <UltimateCurbBox />
       <TechnicalShowcase
         videoSrc="/assets/hero_background.mp4"

@@ -49,7 +49,7 @@ export const FullWidthShowcase = () => {
               loop 
               muted 
               playsInline 
-              className="w-full h-full object-cover grayscale brightness-200"
+              className="w-full h-full object-cover brightness-200"
             >
               <source src={item.url} type="video/mp4" />
             </video>

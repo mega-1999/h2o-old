@@ -20,8 +20,8 @@ export const Heros = ({
 
       {/* 1. BACKGROUND LAYER (Video + Tints) */}
       <div className="absolute inset-0 z-0">
-        {/* VIGNETTE OVERLAY: Darker at the top and bottom to protect Navbar and Bottom Bar visibility */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-transparent to-black/70 z-10" />
+        {/* VIGNETTE OVERLAY: Blue tint at the top and bottom to protect Navbar and Bottom Bar visibility */}
+        <div className="absolute inset-0 bg-gradient-to-b from-[#004aad]/60 via-transparent to-[#004aad]/70 z-10" />
 
         {/* BLUE TINT: Ensures the video matches H2O branding */}
         <div className="absolute inset-0 bg-[#004aad]/30 z-10" />

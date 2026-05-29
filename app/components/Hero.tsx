@@ -14,8 +14,8 @@ export const Hero = ({ videoSrc, gifSrc }: HeroProps) => {
 
       {/* 1. BACKGROUND VIDEO (Tinted for better contrast) */}
       <div className="fixed inset-0 -z-10 overflow-hidden">
-        {/* Dark Overlay to pop the Blue UI */}
-        <div className="absolute inset-0 bg-black/40 z-10" /> 
+        {/* Blue Overlay to pop the Blue UI */}
+        <div className="absolute inset-0 bg-[#004aad]/40 z-10" /> 
         <video
           autoPlay
           loop
@@ -28,22 +28,18 @@ export const Hero = ({ videoSrc, gifSrc }: HeroProps) => {
       </div>
 
       {/* 2. CENTER ASSET - CLEAN BLUE FOCUS */}
-      <div className="relative">
-        
-        {/* HIGH-INTENSITY BLUE GLOW */}
+      {/* <div className="relative">
+         
         <div className="absolute -inset-4 bg-[#1B79EE]/20 rounded-[2.5rem] blur-2xl animate-pulse"></div>
-        
-        {/* THE CLEAN BLUE FRAME */}
+         
         <div className="relative border-2 border-[#1B79EE] bg-transparent p-1 rounded-[2rem] shadow-[0_0_50px_rgba(27,121,238,0.3)] overflow-hidden max-w-[600px]">
-          
-          {/* ASSET PREVIEW LABEL (Minimalist) */}
+           
           <div className="absolute top-4 left-6 z-30">
             <span className="text-[8px] uppercase tracking-[0.5em] font-black text-[#1B79EE] bg-white/10 px-2 py-1 backdrop-blur-md">
               H2O System Focus
             </span>
           </div>
-
-          {/* THE IMAGE/GIF */}
+ 
           <Image
             height={400}
             width={800}
@@ -53,13 +49,11 @@ export const Hero = ({ videoSrc, gifSrc }: HeroProps) => {
             priority
           />
         </div>
-
-        {/* CORNER ACCENTS (Industrial Detail) */}
+ 
         <div className="absolute -top-2 -left-2 w-6 h-6 border-t-2 border-l-2 border-white/50"></div>
         <div className="absolute -bottom-2 -right-2 w-6 h-6 border-b-2 border-r-2 border-white/50"></div>
-      </div>
-
-      {/* 3. HERO TEXT */}
+      </div> */}
+ 
       <div className="mt-16 text-center space-y-6 max-w-4xl">
         <h2 className="text-5xl md:text-8xl font-black uppercase tracking-tighter italic leading-none text-white drop-shadow-2xl">
           Saving Our <span className="text-[#1B79EE]">Oceans</span>

@@ -52,7 +52,7 @@ export const IndustryIndex = () => {
                 <img 
                   src={cat.img} 
                   alt={cat.title} 
-                  className="w-full h-full object-contain grayscale group-hover:grayscale-0 group-hover:scale-110 transition-all duration-700 p-4" 
+                  className="w-full h-full object-contain group-hover:scale-110 transition-all duration-700 p-4" 
                 />
                 
                 {/* Visual indicator for categories with Video assets */}

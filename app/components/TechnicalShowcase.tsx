@@ -40,7 +40,7 @@ export const TechnicalShowcase = ({ videoSrc }: { videoSrc: string }) => {
                loop 
                muted 
                playsInline 
-               className="w-full h-full object-cover brightness-75 group-hover:brightness-100 transition-all duration-700"
+               className="w-full h-full object-cover transition-all duration-1000 scale-105 hover:scale-100"
              >
                <source src={videoSrc} type="video/mp4" />
                Your browser does not support the video tag.
@@ -122,7 +122,7 @@ export const TechnicalShowcase = ({ videoSrc }: { videoSrc: string }) => {
                      }`}
                    >
                       <div className="w-20 h-14 bg-white border border-slate-100 flex items-center justify-center p-2 shrink-0">
-                         <img src={slide.src} alt={slide.label} className="w-full h-full object-contain grayscale" />
+                         <img src={slide.src} alt={slide.label} className="w-full h-full object-contain" />
                       </div>
                       <div className="text-left">
                          <p className="text-[9px] font-bold text-slate-300 uppercase tracking-widest leading-none">Angle 0{index + 1}</p>

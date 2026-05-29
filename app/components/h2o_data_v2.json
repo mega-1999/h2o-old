@@ -1,67 +1,81 @@
 [
   {
     "category": "Corporation Stops",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "Corp Stops-AWWA-Ball Style",
+        "imgSrc": "/assets/meter boxes/6.svg",
         "items": [
           {
             "name": "74701B 3/4 BALL CORP AWWA X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
             "id": "5133-116",
             "price": "$116.80"
           },
           {
             "name": "74701B 1 BALL CORP AWWA X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
             "id": "5133-113",
             "price": "$149.87"
           },
           {
             "name": "74701B 1 1/2 BALL CORP AWWA X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
             "id": "5133-110",
             "price": "$354.84"
           },
           {
             "name": "74701B 2 BALL CORP AWWA X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
             "id": "5133-107",
             "price": "$619.85"
           },
           {
             "name": "74701BQ 3/4 BALL CORP AWWA X CTS - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
             "id": "5182-028",
             "price": "$120.38"
           },
           {
             "name": "74701BQ 1 BALL CORP AWWA X CTS - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
             "id": "5182-049",
             "price": "$158.32"
           },
           {
             "name": "74701BQ 1 1/2 BALL CORP AWWA X CTS 16P - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
             "id": "5182-172",
             "price": "$354.84"
           },
           {
             "name": "74701BQ 2 BALL CORP AWWA X CTS 16P - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
             "id": "5182-167",
             "price": "$586.91"
           },
           {
             "name": "74701B-22 3/4 BALL CORP AWWA X CTS - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
             "id": "5133-152",
             "price": "$120.38"
           },
           {
             "name": "74701B-22 1 BALL CORP AWWA X CTS - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
             "id": "5133-163",
             "price": "$158.32"
           },
           {
             "name": "74701B-22 1 1/2 BALL CORP AWWA X CTS 16P - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
             "id": "5133-172",
             "price": "$354.84"
           },
           {
             "name": "74701B-22 2 BALL CORP AWWA X CTS 16P - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
             "id": "",
             "price": ""
           }
@@ -69,886 +83,4923 @@
       },
       {
         "name": "Corp Stops-MNPT-Ball Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "74701B 1 CORP STOPS-MNPT-BALL STYLE MNPT X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "5133-196",
+            "price": "$286.74"
+          },
+          {
+            "name": "74701B 3/4 CORP STOPS-MNPT-BALL STYLE MNPT X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "5133-138",
+            "price": "$490.60"
+          },
+          {
+            "name": "74701B 2 CORP STOPS-MNPT-BALL STYLE MNPT X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "5133-113",
+            "price": "$174.64"
+          }
+        ]
       },
       {
         "name": "Corp Stops-AWWA-Plug Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "74701 2 CORP STOPS-AWWA-PLUG STYLE AWWA X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "5133-191",
+            "price": "$279.75"
+          },
+          {
+            "name": "74701 1 CORP STOPS-AWWA-PLUG STYLE AWWA X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "5133-124",
+            "price": "$450.72"
+          },
+          {
+            "name": "74701 1 1/2 CORP STOPS-AWWA-PLUG STYLE AWWA X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "5133-134",
+            "price": "$240.93"
+          }
+        ]
       },
       {
         "name": "Corp Stops-MNPT-Plug Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "74701 2 CORP STOPS-MNPT-PLUG STYLE MNPT X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "5133-187",
+            "price": "$320.69"
+          },
+          {
+            "name": "74701 3/4 CORP STOPS-MNPT-PLUG STYLE MNPT X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "5133-146",
+            "price": "$556.00"
+          },
+          {
+            "name": "74701 1 CORP STOPS-MNPT-PLUG STYLE MNPT X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "5133-157",
+            "price": "$307.02"
+          }
+        ]
       },
       {
         "name": "Corporation Adapters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "74701 3/4 CORPORATION ADAPTERS MNPT X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "5133-148",
+            "price": "$485.08"
+          },
+          {
+            "name": "74701 2 CORPORATION ADAPTERS MNPT X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "5133-105",
+            "price": "$170.97"
+          },
+          {
+            "name": "74701 1 1/2 CORPORATION ADAPTERS MNPT X FLARE - NL",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "5133-107",
+            "price": "$175.06"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Accessories",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "Straight AWWA Adapters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "STRAIGHT AWWA ADAPTERS - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-575",
+            "price": "$398.87"
+          },
+          {
+            "name": "STRAIGHT AWWA ADAPTERS - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-623",
+            "price": "$58.83"
+          },
+          {
+            "name": "STRAIGHT AWWA ADAPTERS - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-870",
+            "price": "$39.27"
+          }
+        ]
       },
       {
         "name": "Insert Stiffeners",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "INSERT STIFFENERS - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-175",
+            "price": "$261.76"
+          },
+          {
+            "name": "INSERT STIFFENERS - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-641",
+            "price": "$128.93"
+          },
+          {
+            "name": "INSERT STIFFENERS - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-466",
+            "price": "$110.05"
+          }
+        ]
       },
       {
         "name": "U-Branch / Valve Ass'y",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "U-BRANCH / VALVE ASS'Y - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-353",
+            "price": "$323.37"
+          },
+          {
+            "name": "U-BRANCH / VALVE ASS'Y - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-595",
+            "price": "$127.73"
+          },
+          {
+            "name": "U-BRANCH / VALVE ASS'Y - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-691",
+            "price": "$71.78"
+          }
+        ]
       },
       {
         "name": "Ball Valves",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "BALL VALVES - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-606",
+            "price": "$284.10"
+          },
+          {
+            "name": "BALL VALVES - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-799",
+            "price": "$27.81"
+          },
+          {
+            "name": "BALL VALVES - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-815",
+            "price": "$244.92"
+          }
+        ]
       },
       {
         "name": "Inline Dual Check Valves",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "INLINE DUAL CHECK VALVES - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-412",
+            "price": "$208.77"
+          },
+          {
+            "name": "INLINE DUAL CHECK VALVES - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-180",
+            "price": "$349.29"
+          },
+          {
+            "name": "INLINE DUAL CHECK VALVES - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-613",
+            "price": "$58.18"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Service Saddles",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "Brass Hinged Saddles-AWWA",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 2 IN BRASS HINGED SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-596",
+            "price": "$152.53"
+          },
+          {
+            "name": "SADDLE 3/4 IN BRASS HINGED SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-634",
+            "price": "$127.91"
+          },
+          {
+            "name": "SADDLE 1 1/2 IN BRASS HINGED SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-854",
+            "price": "$59.37"
+          }
+        ]
       },
       {
         "name": "Brass Hinged Saddles-FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 2 IN BRASS HINGED SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-612",
+            "price": "$174.05"
+          },
+          {
+            "name": "SADDLE 1 1/2 IN BRASS HINGED SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-886",
+            "price": "$260.31"
+          },
+          {
+            "name": "SADDLE 3/4 IN BRASS HINGED SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-824",
+            "price": "$216.59"
+          }
+        ]
       },
       {
         "name": "Brass Two Bolt Saddles -AWWA",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 1 1/2 IN BRASS TWO BOLT SADDLES -AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-762",
+            "price": "$272.51"
+          },
+          {
+            "name": "SADDLE 2 IN BRASS TWO BOLT SADDLES -AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-417",
+            "price": "$183.13"
+          },
+          {
+            "name": "SADDLE 3/4 IN BRASS TWO BOLT SADDLES -AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-794",
+            "price": "$144.93"
+          }
+        ]
       },
       {
         "name": "Brass Two Bolt Saddles -FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 1 IN BRASS TWO BOLT SADDLES -FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-653",
+            "price": "$172.61"
+          },
+          {
+            "name": "SADDLE 3/4 IN BRASS TWO BOLT SADDLES -FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-891",
+            "price": "$148.49"
+          },
+          {
+            "name": "SADDLE 2 IN BRASS TWO BOLT SADDLES -FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-697",
+            "price": "$186.65"
+          }
+        ]
       },
       {
         "name": "DBL 4 BOLT BRASS STRAP-AWWA",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 1 IN DBL 4 BOLT BRASS STRAP-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-594",
+            "price": "$261.28"
+          },
+          {
+            "name": "SADDLE 1 1/2 IN DBL 4 BOLT BRASS STRAP-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-373",
+            "price": "$55.77"
+          },
+          {
+            "name": "SADDLE 3/4 IN DBL 4 BOLT BRASS STRAP-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-654",
+            "price": "$157.22"
+          }
+        ]
       },
       {
         "name": "DBL 4 BOLT BRASS STRAP-FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 3/4 IN DBL 4 BOLT BRASS STRAP-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-527",
+            "price": "$270.75"
+          },
+          {
+            "name": "SADDLE 1 1/2 IN DBL 4 BOLT BRASS STRAP-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-776",
+            "price": "$190.38"
+          },
+          {
+            "name": "SADDLE 1 IN DBL 4 BOLT BRASS STRAP-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-632",
+            "price": "$225.84"
+          }
+        ]
       },
       {
         "name": "DBL Bronze Bale Saddles-AWWA",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 1 1/2 IN DBL BRONZE BALE SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-165",
+            "price": "$187.82"
+          },
+          {
+            "name": "SADDLE 2 IN DBL BRONZE BALE SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-838",
+            "price": "$225.55"
+          },
+          {
+            "name": "SADDLE 3/4 IN DBL BRONZE BALE SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-502",
+            "price": "$62.36"
+          }
+        ]
       },
       {
         "name": "DBL Bronze Bale Saddles-FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 3/4 IN DBL BRONZE BALE SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-129",
+            "price": "$72.41"
+          },
+          {
+            "name": "SADDLE 2 IN DBL BRONZE BALE SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-266",
+            "price": "$236.51"
+          },
+          {
+            "name": "SADDLE 1 1/2 IN DBL BRONZE BALE SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-519",
+            "price": "$296.81"
+          }
+        ]
       },
       {
         "name": "DBL SS Strap Saddles-AWWA",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 1 1/2 IN DBL SS STRAP SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-695",
+            "price": "$112.80"
+          },
+          {
+            "name": "SADDLE 3/4 IN DBL SS STRAP SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-759",
+            "price": "$180.21"
+          },
+          {
+            "name": "SADDLE 2 IN DBL SS STRAP SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-282",
+            "price": "$170.04"
+          }
+        ]
       },
       {
         "name": "DBL SS Strap Saddles-FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 2 IN DBL SS STRAP SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-760",
+            "price": "$162.92"
+          },
+          {
+            "name": "SADDLE 3/4 IN DBL SS STRAP SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-710",
+            "price": "$206.56"
+          },
+          {
+            "name": "SADDLE 1 IN DBL SS STRAP SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-698",
+            "price": "$155.87"
+          }
+        ]
       },
       {
         "name": "NL DBL SS Strap SDL - AWWA",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 2 IN NL DBL SS STRAP SDL - AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-418",
+            "price": "$86.22"
+          },
+          {
+            "name": "SADDLE 1 1/2 IN NL DBL SS STRAP SDL - AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-695",
+            "price": "$223.12"
+          },
+          {
+            "name": "SADDLE 1 IN NL DBL SS STRAP SDL - AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-839",
+            "price": "$215.33"
+          }
+        ]
       },
       {
         "name": "NL DBL SS Strap SDL - FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 2 IN NL DBL SS STRAP SDL - FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-582",
+            "price": "$294.67"
+          },
+          {
+            "name": "SADDLE 3/4 IN NL DBL SS STRAP SDL - FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-544",
+            "price": "$68.67"
+          },
+          {
+            "name": "SADDLE 1 IN NL DBL SS STRAP SDL - FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-612",
+            "price": "$191.36"
+          }
+        ]
       },
       {
         "name": "NL Wide SS Strap SDL - AWWA",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 3/4 IN NL WIDE SS STRAP SDL - AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-556",
+            "price": "$159.73"
+          },
+          {
+            "name": "SADDLE 2 IN NL WIDE SS STRAP SDL - AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-848",
+            "price": "$79.55"
+          },
+          {
+            "name": "SADDLE 1 1/2 IN NL WIDE SS STRAP SDL - AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-198",
+            "price": "$132.94"
+          }
+        ]
       },
       {
         "name": "NL Wide SS Strap SDL - FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 2 IN NL WIDE SS STRAP SDL - FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-160",
+            "price": "$59.00"
+          },
+          {
+            "name": "SADDLE 3/4 IN NL WIDE SS STRAP SDL - FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-827",
+            "price": "$136.88"
+          },
+          {
+            "name": "SADDLE 1 1/2 IN NL WIDE SS STRAP SDL - FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-130",
+            "price": "$246.95"
+          }
+        ]
       },
       {
         "name": "SGL 4 BOLT BRASS STRAP-FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 1 IN SGL 4 BOLT BRASS STRAP-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-813",
+            "price": "$219.23"
+          },
+          {
+            "name": "SADDLE 3/4 IN SGL 4 BOLT BRASS STRAP-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-447",
+            "price": "$69.46"
+          },
+          {
+            "name": "SADDLE 2 IN SGL 4 BOLT BRASS STRAP-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-111",
+            "price": "$59.29"
+          }
+        ]
       },
       {
         "name": "SGL Bronze Bale Saddles-AWWA",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 3/4 IN SGL BRONZE BALE SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-144",
+            "price": "$208.08"
+          },
+          {
+            "name": "SADDLE 1 IN SGL BRONZE BALE SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-256",
+            "price": "$232.68"
+          },
+          {
+            "name": "SADDLE 2 IN SGL BRONZE BALE SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-322",
+            "price": "$280.63"
+          }
+        ]
       },
       {
         "name": "SGL Bronze Bale Saddles-FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 1 1/2 IN SGL BRONZE BALE SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-591",
+            "price": "$165.31"
+          },
+          {
+            "name": "SADDLE 1 IN SGL BRONZE BALE SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-268",
+            "price": "$68.58"
+          },
+          {
+            "name": "SADDLE 2 IN SGL BRONZE BALE SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-735",
+            "price": "$254.20"
+          }
+        ]
       },
       {
         "name": "SGL SS Strap Saddles-AWWA",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 1 1/2 IN SGL SS STRAP SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-277",
+            "price": "$284.46"
+          },
+          {
+            "name": "SADDLE 2 IN SGL SS STRAP SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-690",
+            "price": "$159.77"
+          },
+          {
+            "name": "SADDLE 3/4 IN SGL SS STRAP SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-739",
+            "price": "$299.22"
+          }
+        ]
       },
       {
         "name": "SGL SS Strap Saddles-FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 1 1/2 IN SGL SS STRAP SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-579",
+            "price": "$90.21"
+          },
+          {
+            "name": "SADDLE 3/4 IN SGL SS STRAP SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-555",
+            "price": "$172.68"
+          },
+          {
+            "name": "SADDLE 1 IN SGL SS STRAP SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-695",
+            "price": "$229.43"
+          }
+        ]
       },
       {
         "name": "Swing Connect Saddles-AWWA",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 1 IN SWING CONNECT SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-211",
+            "price": "$123.01"
+          },
+          {
+            "name": "SADDLE 1 1/2 IN SWING CONNECT SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-617",
+            "price": "$196.86"
+          },
+          {
+            "name": "SADDLE 2 IN SWING CONNECT SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-800",
+            "price": "$228.54"
+          }
+        ]
       },
       {
         "name": "Swing Connect Saddles-FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 1 1/2 IN SWING CONNECT SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-237",
+            "price": "$246.73"
+          },
+          {
+            "name": "SADDLE 3/4 IN SWING CONNECT SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-670",
+            "price": "$76.65"
+          },
+          {
+            "name": "SADDLE 2 IN SWING CONNECT SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-694",
+            "price": "$131.43"
+          }
+        ]
       },
       {
         "name": "Wide SS Strap Saddles-AWWA",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 1 IN WIDE SS STRAP SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-626",
+            "price": "$296.09"
+          },
+          {
+            "name": "SADDLE 2 IN WIDE SS STRAP SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-153",
+            "price": "$264.58"
+          },
+          {
+            "name": "SADDLE 3/4 IN WIDE SS STRAP SADDLES-AWWA",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-118",
+            "price": "$271.12"
+          }
+        ]
       },
       {
         "name": "Wide SS Strap Saddles-FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 3/4 IN WIDE SS STRAP SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-156",
+            "price": "$195.46"
+          },
+          {
+            "name": "SADDLE 1 IN WIDE SS STRAP SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-643",
+            "price": "$266.99"
+          },
+          {
+            "name": "SADDLE 2 IN WIDE SS STRAP SADDLES-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-625",
+            "price": "$275.07"
+          }
+        ]
       },
       {
         "name": "TITAN Bolt",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SADDLE 2 IN TITAN BOLT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-465",
+            "price": "$251.38"
+          },
+          {
+            "name": "SADDLE 3/4 IN TITAN BOLT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-510",
+            "price": "$267.92"
+          },
+          {
+            "name": "SADDLE 1 1/2 IN TITAN BOLT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "3800-876",
+            "price": "$177.62"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Curb Stops",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "Blow-Off BV-COMPxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 BLOW-OFF BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-236",
+            "price": "$487.40"
+          },
+          {
+            "name": "CURB STOP 1 1/2 BLOW-OFF BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-493",
+            "price": "$130.05"
+          },
+          {
+            "name": "CURB STOP 3/4 BLOW-OFF BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-585",
+            "price": "$425.07"
+          }
+        ]
       },
       {
         "name": "Blow-Off BV-COMPxFNPT w/DRN",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 BLOW-OFF BV-COMPXFNPT W/DRN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-709",
+            "price": "$191.89"
+          },
+          {
+            "name": "CURB STOP 1 BLOW-OFF BV-COMPXFNPT W/DRN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-746",
+            "price": "$429.36"
+          },
+          {
+            "name": "CURB STOP 2 BLOW-OFF BV-COMPXFNPT W/DRN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-839",
+            "price": "$317.78"
+          }
+        ]
       },
       {
         "name": "Blow-Off BV-COMPxMNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 BLOW-OFF BV-COMPXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-248",
+            "price": "$492.31"
+          },
+          {
+            "name": "CURB STOP 3/4 BLOW-OFF BV-COMPXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-757",
+            "price": "$116.91"
+          },
+          {
+            "name": "CURB STOP 1 1/2 BLOW-OFF BV-COMPXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-438",
+            "price": "$240.21"
+          }
+        ]
       },
       {
         "name": "Blow-Off BV-COMPxMNPT w/DRN",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 BLOW-OFF BV-COMPXMNPT W/DRN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-529",
+            "price": "$386.06"
+          },
+          {
+            "name": "CURB STOP 1 BLOW-OFF BV-COMPXMNPT W/DRN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-178",
+            "price": "$308.98"
+          },
+          {
+            "name": "CURB STOP 2 BLOW-OFF BV-COMPXMNPT W/DRN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-247",
+            "price": "$328.56"
+          }
+        ]
       },
       {
         "name": "Blow-Off BV-FLARExMNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 BLOW-OFF BV-FLAREXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-301",
+            "price": "$206.89"
+          },
+          {
+            "name": "CURB STOP 1 1/2 BLOW-OFF BV-FLAREXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-416",
+            "price": "$298.76"
+          },
+          {
+            "name": "CURB STOP 1 BLOW-OFF BV-FLAREXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-418",
+            "price": "$396.48"
+          }
+        ]
       },
       {
         "name": "Blow-Off BV-FNPTxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 BLOW-OFF BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-535",
+            "price": "$439.98"
+          },
+          {
+            "name": "CURB STOP 2 BLOW-OFF BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-693",
+            "price": "$412.73"
+          },
+          {
+            "name": "CURB STOP 1 1/2 BLOW-OFF BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-401",
+            "price": "$271.90"
+          }
+        ]
       },
       {
         "name": "Blow-Off BV-FNPTxFNPT w/DRN",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 BLOW-OFF BV-FNPTXFNPT W/DRN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-525",
+            "price": "$317.23"
+          },
+          {
+            "name": "CURB STOP 1 1/2 BLOW-OFF BV-FNPTXFNPT W/DRN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-426",
+            "price": "$129.22"
+          },
+          {
+            "name": "CURB STOP 2 BLOW-OFF BV-FNPTXFNPT W/DRN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-276",
+            "price": "$289.76"
+          }
+        ]
       },
       {
         "name": "Blow-Off BV-FNPTxMNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 BLOW-OFF BV-FNPTXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-309",
+            "price": "$403.86"
+          },
+          {
+            "name": "CURB STOP 3/4 BLOW-OFF BV-FNPTXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-586",
+            "price": "$451.27"
+          },
+          {
+            "name": "CURB STOP 1 1/2 BLOW-OFF BV-FNPTXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-756",
+            "price": "$493.90"
+          }
+        ]
       },
       {
         "name": "Blow-Off BV-FNPTxMNPT w/DRN",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 BLOW-OFF BV-FNPTXMNPT W/DRN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-363",
+            "price": "$486.64"
+          },
+          {
+            "name": "CURB STOP 2 BLOW-OFF BV-FNPTXMNPT W/DRN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-497",
+            "price": "$499.18"
+          },
+          {
+            "name": "CURB STOP 1 BLOW-OFF BV-FNPTXMNPT W/DRN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-203",
+            "price": "$101.85"
+          }
+        ]
       },
       {
         "name": "FP Angle BV-COMPxCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 FP ANGLE BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-780",
+            "price": "$232.97"
+          },
+          {
+            "name": "CURB STOP 2 FP ANGLE BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-334",
+            "price": "$149.19"
+          },
+          {
+            "name": "CURB STOP 3/4 FP ANGLE BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-586",
+            "price": "$319.33"
+          }
+        ]
       },
       {
         "name": "FP Angle BV-COMPxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 FP ANGLE BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-562",
+            "price": "$294.32"
+          },
+          {
+            "name": "CURB STOP 3/4 FP ANGLE BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-769",
+            "price": "$275.14"
+          },
+          {
+            "name": "CURB STOP 2 FP ANGLE BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-534",
+            "price": "$298.65"
+          }
+        ]
       },
       {
         "name": "FP Angle BV-COMPxMNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 FP ANGLE BV-COMPXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-728",
+            "price": "$370.15"
+          },
+          {
+            "name": "CURB STOP 3/4 FP ANGLE BV-COMPXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-364",
+            "price": "$339.38"
+          },
+          {
+            "name": "CURB STOP 1 FP ANGLE BV-COMPXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-621",
+            "price": "$412.20"
+          }
+        ]
       },
       {
         "name": "FP Angle BV-FLARExFLARE",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 FP ANGLE BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-348",
+            "price": "$168.59"
+          },
+          {
+            "name": "CURB STOP 1 1/2 FP ANGLE BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-654",
+            "price": "$409.78"
+          },
+          {
+            "name": "CURB STOP 2 FP ANGLE BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-486",
+            "price": "$478.32"
+          }
+        ]
       },
       {
         "name": "FP Angle BV-FLARExFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 FP ANGLE BV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-640",
+            "price": "$253.46"
+          },
+          {
+            "name": "CURB STOP 3/4 FP ANGLE BV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-680",
+            "price": "$248.91"
+          },
+          {
+            "name": "CURB STOP 1 1/2 FP ANGLE BV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-498",
+            "price": "$399.30"
+          }
+        ]
       },
       {
         "name": "FP Angle BV-FLR,FNPT,MNPT,Comp",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 FP ANGLE BV-FLR,FNPT,MNPT,COMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-494",
+            "price": "$411.39"
+          },
+          {
+            "name": "CURB STOP 3/4 FP ANGLE BV-FLR,FNPT,MNPT,COMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-404",
+            "price": "$147.72"
+          },
+          {
+            "name": "CURB STOP 2 FP ANGLE BV-FLR,FNPT,MNPT,COMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-527",
+            "price": "$319.36"
+          }
+        ]
       },
       {
         "name": "FP Angle BV-FNPTxCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 FP ANGLE BV-FNPTXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-271",
+            "price": "$275.60"
+          },
+          {
+            "name": "CURB STOP 2 FP ANGLE BV-FNPTXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-539",
+            "price": "$185.99"
+          },
+          {
+            "name": "CURB STOP 1 FP ANGLE BV-FNPTXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-312",
+            "price": "$395.04"
+          }
+        ]
       },
       {
         "name": "FP Angle BV-FNPTxFLARE",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 FP ANGLE BV-FNPTXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-385",
+            "price": "$139.42"
+          },
+          {
+            "name": "CURB STOP 2 FP ANGLE BV-FNPTXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-656",
+            "price": "$103.52"
+          },
+          {
+            "name": "CURB STOP 3/4 FP ANGLE BV-FNPTXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-812",
+            "price": "$315.44"
+          }
+        ]
       },
       {
         "name": "FP Angle BV-FNPTxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 FP ANGLE BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-124",
+            "price": "$355.89"
+          },
+          {
+            "name": "CURB STOP 1 1/2 FP ANGLE BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-830",
+            "price": "$372.26"
+          },
+          {
+            "name": "CURB STOP 3/4 FP ANGLE BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-735",
+            "price": "$116.00"
+          }
+        ]
       },
       {
         "name": "Inverted PV-COMPxCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 INVERTED PV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-131",
+            "price": "$463.68"
+          },
+          {
+            "name": "CURB STOP 1 INVERTED PV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-398",
+            "price": "$111.41"
+          },
+          {
+            "name": "CURB STOP 1 1/2 INVERTED PV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-288",
+            "price": "$496.00"
+          }
+        ]
       },
       {
         "name": "Inverted PV-FLARExFLARE",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 INVERTED PV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-843",
+            "price": "$385.58"
+          },
+          {
+            "name": "CURB STOP 3/4 INVERTED PV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-460",
+            "price": "$462.60"
+          },
+          {
+            "name": "CURB STOP 2 INVERTED PV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-721",
+            "price": "$390.66"
+          }
+        ]
       },
       {
         "name": "Inverted PV-FLARExFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 INVERTED PV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-510",
+            "price": "$493.01"
+          },
+          {
+            "name": "CURB STOP 1 1/2 INVERTED PV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-477",
+            "price": "$438.20"
+          },
+          {
+            "name": "CURB STOP 2 INVERTED PV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-164",
+            "price": "$165.80"
+          }
+        ]
       },
       {
         "name": "Inverted PV-FNPTxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 INVERTED PV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-670",
+            "price": "$496.96"
+          },
+          {
+            "name": "CURB STOP 1 INVERTED PV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-884",
+            "price": "$392.43"
+          },
+          {
+            "name": "CURB STOP 3/4 INVERTED PV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-670",
+            "price": "$368.16"
+          }
+        ]
       },
       {
         "name": "Reduced Angle BV-COMPxCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 REDUCED ANGLE BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-775",
+            "price": "$232.10"
+          },
+          {
+            "name": "CURB STOP 2 REDUCED ANGLE BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-116",
+            "price": "$145.48"
+          },
+          {
+            "name": "CURB STOP 3/4 REDUCED ANGLE BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-359",
+            "price": "$199.89"
+          }
+        ]
       },
       {
         "name": "Reduced Angle BV-COMPxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 REDUCED ANGLE BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-520",
+            "price": "$467.99"
+          },
+          {
+            "name": "CURB STOP 3/4 REDUCED ANGLE BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-149",
+            "price": "$392.48"
+          },
+          {
+            "name": "CURB STOP 1 REDUCED ANGLE BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-762",
+            "price": "$400.88"
+          }
+        ]
       },
       {
         "name": "Reduced Angle BV-FLARExFLARE",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 REDUCED ANGLE BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-880",
+            "price": "$367.75"
+          },
+          {
+            "name": "CURB STOP 1 REDUCED ANGLE BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-361",
+            "price": "$428.70"
+          },
+          {
+            "name": "CURB STOP 3/4 REDUCED ANGLE BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-424",
+            "price": "$172.52"
+          }
+        ]
       },
       {
         "name": "Reduced Angle BV-FLARExFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 REDUCED ANGLE BV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-617",
+            "price": "$101.57"
+          },
+          {
+            "name": "CURB STOP 3/4 REDUCED ANGLE BV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-195",
+            "price": "$82.00"
+          },
+          {
+            "name": "CURB STOP 2 REDUCED ANGLE BV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-611",
+            "price": "$448.11"
+          }
+        ]
       },
       {
         "name": "Reduced Angle BV-FNPTxCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 REDUCED ANGLE BV-FNPTXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-316",
+            "price": "$187.91"
+          },
+          {
+            "name": "CURB STOP 1 REDUCED ANGLE BV-FNPTXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-748",
+            "price": "$249.61"
+          },
+          {
+            "name": "CURB STOP 3/4 REDUCED ANGLE BV-FNPTXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-662",
+            "price": "$195.55"
+          }
+        ]
       },
       {
         "name": "Reduced Angle BV-FNPTxFLARE",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 REDUCED ANGLE BV-FNPTXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-607",
+            "price": "$257.83"
+          },
+          {
+            "name": "CURB STOP 2 REDUCED ANGLE BV-FNPTXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-295",
+            "price": "$126.72"
+          },
+          {
+            "name": "CURB STOP 1 1/2 REDUCED ANGLE BV-FNPTXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-236",
+            "price": "$155.80"
+          }
+        ]
       },
       {
         "name": "Reduced Angle BV-FNPTxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 REDUCED ANGLE BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-271",
+            "price": "$268.49"
+          },
+          {
+            "name": "CURB STOP 1 REDUCED ANGLE BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-772",
+            "price": "$138.23"
+          },
+          {
+            "name": "CURB STOP 2 REDUCED ANGLE BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-821",
+            "price": "$470.56"
+          }
+        ]
       },
       {
         "name": "Repair STR BV-COMPxCOMP w/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 REPAIR STR BV-COMPXCOMP W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-508",
+            "price": "$228.04"
+          },
+          {
+            "name": "CURB STOP 1 1/2 REPAIR STR BV-COMPXCOMP W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-419",
+            "price": "$179.80"
+          },
+          {
+            "name": "CURB STOP 2 REPAIR STR BV-COMPXCOMP W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-610",
+            "price": "$160.44"
+          }
+        ]
       },
       {
         "name": "Repair STR BV-COMPxFNPT w/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 REPAIR STR BV-COMPXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-261",
+            "price": "$333.01"
+          },
+          {
+            "name": "CURB STOP 1 REPAIR STR BV-COMPXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-548",
+            "price": "$462.74"
+          },
+          {
+            "name": "CURB STOP 3/4 REPAIR STR BV-COMPXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-578",
+            "price": "$150.21"
+          }
+        ]
       },
       {
         "name": "Repair STR BV-FLARExCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 REPAIR STR BV-FLAREXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-363",
+            "price": "$399.05"
+          },
+          {
+            "name": "CURB STOP 2 REPAIR STR BV-FLAREXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-707",
+            "price": "$415.75"
+          },
+          {
+            "name": "CURB STOP 1 REPAIR STR BV-FLAREXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-210",
+            "price": "$480.46"
+          }
+        ]
       },
       {
         "name": "Repair STR Minn BV-COMPxCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 REPAIR STR MINN BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-828",
+            "price": "$284.31"
+          },
+          {
+            "name": "CURB STOP 1 1/2 REPAIR STR MINN BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-617",
+            "price": "$219.99"
+          },
+          {
+            "name": "CURB STOP 3/4 REPAIR STR MINN BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-684",
+            "price": "$169.17"
+          }
+        ]
       },
       {
         "name": "Repair STR Minn BV-COMPxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 REPAIR STR MINN BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-690",
+            "price": "$393.49"
+          },
+          {
+            "name": "CURB STOP 2 REPAIR STR MINN BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-190",
+            "price": "$420.42"
+          },
+          {
+            "name": "CURB STOP 1 REPAIR STR MINN BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-224",
+            "price": "$306.54"
+          }
+        ]
       },
       {
         "name": "Repair STR Minn BV-FLARExCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 REPAIR STR MINN BV-FLAREXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-348",
+            "price": "$119.01"
+          },
+          {
+            "name": "CURB STOP 2 REPAIR STR MINN BV-FLAREXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-171",
+            "price": "$137.97"
+          },
+          {
+            "name": "CURB STOP 3/4 REPAIR STR MINN BV-FLAREXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-233",
+            "price": "$356.73"
+          }
+        ]
       },
       {
         "name": "Repair Straight BV-COMPxCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 REPAIR STRAIGHT BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-851",
+            "price": "$474.31"
+          },
+          {
+            "name": "CURB STOP 1 REPAIR STRAIGHT BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-213",
+            "price": "$246.32"
+          },
+          {
+            "name": "CURB STOP 1 1/2 REPAIR STRAIGHT BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-550",
+            "price": "$338.40"
+          }
+        ]
       },
       {
         "name": "Repair Straight BV-COMPxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 REPAIR STRAIGHT BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-565",
+            "price": "$132.47"
+          },
+          {
+            "name": "CURB STOP 2 REPAIR STRAIGHT BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-126",
+            "price": "$282.32"
+          },
+          {
+            "name": "CURB STOP 1 1/2 REPAIR STRAIGHT BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-239",
+            "price": "$404.90"
+          }
+        ]
       },
       {
         "name": "REPAIR STRAIGHT BV-COMPxMNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 REPAIR STRAIGHT BV-COMPXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-347",
+            "price": "$341.78"
+          },
+          {
+            "name": "CURB STOP 1 1/2 REPAIR STRAIGHT BV-COMPXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-773",
+            "price": "$468.27"
+          },
+          {
+            "name": "CURB STOP 2 REPAIR STRAIGHT BV-COMPXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-887",
+            "price": "$304.96"
+          }
+        ]
       },
       {
         "name": "Right Open BV-COMPxCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 RIGHT OPEN BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-794",
+            "price": "$88.05"
+          },
+          {
+            "name": "CURB STOP 1 RIGHT OPEN BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-822",
+            "price": "$299.51"
+          },
+          {
+            "name": "CURB STOP 2 RIGHT OPEN BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-466",
+            "price": "$345.95"
+          }
+        ]
       },
       {
         "name": "Right Open BV-FLARExFLARE",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 RIGHT OPEN BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-858",
+            "price": "$471.43"
+          },
+          {
+            "name": "CURB STOP 1 1/2 RIGHT OPEN BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-167",
+            "price": "$486.67"
+          },
+          {
+            "name": "CURB STOP 1 RIGHT OPEN BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-346",
+            "price": "$243.06"
+          }
+        ]
       },
       {
         "name": "Right Open BV-FNPTxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 RIGHT OPEN BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-620",
+            "price": "$145.74"
+          },
+          {
+            "name": "CURB STOP 3/4 RIGHT OPEN BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-868",
+            "price": "$137.86"
+          },
+          {
+            "name": "CURB STOP 2 RIGHT OPEN BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-633",
+            "price": "$332.91"
+          }
+        ]
       },
       {
         "name": "Right Open S&D COMPxCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 RIGHT OPEN S&D COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-618",
+            "price": "$385.52"
+          },
+          {
+            "name": "CURB STOP 1 1/2 RIGHT OPEN S&D COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-644",
+            "price": "$163.29"
+          },
+          {
+            "name": "CURB STOP 2 RIGHT OPEN S&D COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-548",
+            "price": "$280.86"
+          }
+        ]
       },
       {
         "name": "Right Open S&D FLARExFLARE",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 RIGHT OPEN S&D FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-800",
+            "price": "$454.13"
+          },
+          {
+            "name": "CURB STOP 1 RIGHT OPEN S&D FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-857",
+            "price": "$307.59"
+          },
+          {
+            "name": "CURB STOP 1 1/2 RIGHT OPEN S&D FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-240",
+            "price": "$154.84"
+          }
+        ]
       },
       {
         "name": "Right Open S&D FNPTxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 RIGHT OPEN S&D FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-678",
+            "price": "$357.81"
+          },
+          {
+            "name": "CURB STOP 2 RIGHT OPEN S&D FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-500",
+            "price": "$203.67"
+          },
+          {
+            "name": "CURB STOP 3/4 RIGHT OPEN S&D FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-511",
+            "price": "$339.57"
+          }
+        ]
       },
       {
         "name": "ST MINN BV-DIELECTRIC BUSHING",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 ST MINN BV-DIELECTRIC BUSHING",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-248",
+            "price": "$403.97"
+          },
+          {
+            "name": "CURB STOP 1 1/2 ST MINN BV-DIELECTRIC BUSHING",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-579",
+            "price": "$209.58"
+          },
+          {
+            "name": "CURB STOP 2 ST MINN BV-DIELECTRIC BUSHING",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-678",
+            "price": "$371.76"
+          }
+        ]
       },
       {
         "name": "STOP & DRAIN MIN-COMPxCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 STOP & DRAIN MIN-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-580",
+            "price": "$376.76"
+          },
+          {
+            "name": "CURB STOP 2 STOP & DRAIN MIN-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-103",
+            "price": "$340.47"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STOP & DRAIN MIN-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-126",
+            "price": "$401.28"
+          }
+        ]
       },
       {
         "name": "STOP & DRAIN MIN-COMPxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 STOP & DRAIN MIN-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-169",
+            "price": "$176.78"
+          },
+          {
+            "name": "CURB STOP 3/4 STOP & DRAIN MIN-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-604",
+            "price": "$172.20"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STOP & DRAIN MIN-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-280",
+            "price": "$167.62"
+          }
+        ]
       },
       {
         "name": "STOP & DRAIN MIN-FLARExFLARE",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 STOP & DRAIN MIN-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-173",
+            "price": "$423.46"
+          },
+          {
+            "name": "CURB STOP 3/4 STOP & DRAIN MIN-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-169",
+            "price": "$80.28"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STOP & DRAIN MIN-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-293",
+            "price": "$118.57"
+          }
+        ]
       },
       {
         "name": "STOP & DRAIN MIN-FNPTxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 STOP & DRAIN MIN-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-457",
+            "price": "$460.60"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STOP & DRAIN MIN-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-544",
+            "price": "$110.43"
+          },
+          {
+            "name": "CURB STOP 2 STOP & DRAIN MIN-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-435",
+            "price": "$355.49"
+          }
+        ]
       },
       {
         "name": "Stop & Drain-COMPxCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 STOP & DRAIN-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-865",
+            "price": "$118.75"
+          },
+          {
+            "name": "CURB STOP 3/4 STOP & DRAIN-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-847",
+            "price": "$471.87"
+          },
+          {
+            "name": "CURB STOP 2 STOP & DRAIN-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-319",
+            "price": "$393.84"
+          }
+        ]
       },
       {
         "name": "Stop & Drain-COMPxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 STOP & DRAIN-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-812",
+            "price": "$391.37"
+          },
+          {
+            "name": "CURB STOP 2 STOP & DRAIN-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-405",
+            "price": "$140.61"
+          },
+          {
+            "name": "CURB STOP 3/4 STOP & DRAIN-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-635",
+            "price": "$236.08"
+          }
+        ]
       },
       {
         "name": "Stop & Drain-FLARExFLARE",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 STOP & DRAIN-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-778",
+            "price": "$184.92"
+          },
+          {
+            "name": "CURB STOP 2 STOP & DRAIN-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-220",
+            "price": "$431.70"
+          },
+          {
+            "name": "CURB STOP 3/4 STOP & DRAIN-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-855",
+            "price": "$185.12"
+          }
+        ]
       },
       {
         "name": "Stop & Drain-FLARExFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 STOP & DRAIN-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-724",
+            "price": "$359.37"
+          },
+          {
+            "name": "CURB STOP 3/4 STOP & DRAIN-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-347",
+            "price": "$469.66"
+          },
+          {
+            "name": "CURB STOP 2 STOP & DRAIN-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-816",
+            "price": "$102.23"
+          }
+        ]
       },
       {
         "name": "Stop & Drain-FLR, COMP OR FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 STOP & DRAIN-FLR, COMP OR FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-503",
+            "price": "$430.96"
+          },
+          {
+            "name": "CURB STOP 2 STOP & DRAIN-FLR, COMP OR FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-500",
+            "price": "$184.04"
+          },
+          {
+            "name": "CURB STOP 1 STOP & DRAIN-FLR, COMP OR FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-240",
+            "price": "$494.94"
+          }
+        ]
       },
       {
         "name": "Stop & Drain-FNPTxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 STOP & DRAIN-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-645",
+            "price": "$190.30"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STOP & DRAIN-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-132",
+            "price": "$249.17"
+          },
+          {
+            "name": "CURB STOP 3/4 STOP & DRAIN-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-762",
+            "price": "$122.25"
+          }
+        ]
       },
       {
         "name": "STR BV-DIELECTRIC BUSHING LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 STR BV-DIELECTRIC BUSHING LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-368",
+            "price": "$265.67"
+          },
+          {
+            "name": "CURB STOP 2 STR BV-DIELECTRIC BUSHING LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-570",
+            "price": "$273.62"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STR BV-DIELECTRIC BUSHING LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-334",
+            "price": "$120.12"
+          }
+        ]
       },
       {
         "name": "Straight BV-COMPxCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-667",
+            "price": "$471.69"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-896",
+            "price": "$357.71"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-374",
+            "price": "$287.63"
+          }
+        ]
       },
       {
         "name": "Straight BV-COMPxCOMP w/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-COMPXCOMP W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-687",
+            "price": "$308.17"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-COMPXCOMP W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-765",
+            "price": "$256.89"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-COMPXCOMP W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-716",
+            "price": "$290.34"
+          }
+        ]
       },
       {
         "name": "Straight BV-COMPXFLR",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-COMPXFLR",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-648",
+            "price": "$430.32"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-COMPXFLR",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-318",
+            "price": "$441.86"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-COMPXFLR",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-886",
+            "price": "$447.21"
+          }
+        ]
       },
       {
         "name": "Straight BV-COMPXFLR W/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-COMPXFLR W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-610",
+            "price": "$169.12"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-COMPXFLR W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-207",
+            "price": "$325.96"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-COMPXFLR W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-812",
+            "price": "$417.00"
+          }
+        ]
       },
       {
         "name": "Straight BV-COMPxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-563",
+            "price": "$236.86"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-192",
+            "price": "$403.03"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-549",
+            "price": "$240.65"
+          }
+        ]
       },
       {
         "name": "Straight BV-COMPxFNPT W/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-COMPXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-543",
+            "price": "$337.34"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-COMPXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-187",
+            "price": "$339.31"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-COMPXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-394",
+            "price": "$343.16"
+          }
+        ]
       },
       {
         "name": "STRAIGHT BV-COMPxMNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-COMPXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-372",
+            "price": "$327.01"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-COMPXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-399",
+            "price": "$395.21"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-COMPXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-299",
+            "price": "$181.04"
+          }
+        ]
       },
       {
         "name": "STRAIGHT BV-COMPxMNPT w/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-COMPXMNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-723",
+            "price": "$447.86"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-COMPXMNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-775",
+            "price": "$404.80"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-COMPXMNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-203",
+            "price": "$143.01"
+          }
+        ]
       },
       {
         "name": "Straight BV-DIELECTRIC BUSHING",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-DIELECTRIC BUSHING",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-851",
+            "price": "$228.19"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-DIELECTRIC BUSHING",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-137",
+            "price": "$448.10"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-DIELECTRIC BUSHING",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-795",
+            "price": "$304.65"
+          }
+        ]
       },
       {
         "name": "Straight BV-FLARExFLARE",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-647",
+            "price": "$177.34"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-358",
+            "price": "$254.41"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-880",
+            "price": "$207.14"
+          }
+        ]
       },
       {
         "name": "Straight BV-FLARExFLARE w/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-FLAREXFLARE W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-245",
+            "price": "$267.15"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-FLAREXFLARE W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-779",
+            "price": "$367.60"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-FLAREXFLARE W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-627",
+            "price": "$178.83"
+          }
+        ]
       },
       {
         "name": "Straight BV-FLARExFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-690",
+            "price": "$437.04"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-698",
+            "price": "$140.79"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-161",
+            "price": "$431.58"
+          }
+        ]
       },
       {
         "name": "Straight BV-FLARExFNPT W/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-FLAREXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-462",
+            "price": "$111.52"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-FLAREXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-576",
+            "price": "$225.98"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-FLAREXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-833",
+            "price": "$178.56"
+          }
+        ]
       },
       {
         "name": "STRAIGHT BV-FLARExMNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-FLAREXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-443",
+            "price": "$431.26"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-FLAREXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-151",
+            "price": "$448.50"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-FLAREXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-638",
+            "price": "$343.07"
+          }
+        ]
       },
       {
         "name": "STRAIGHT BV-FLR/COMPxFNPT W/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-FLR/COMPXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-291",
+            "price": "$332.75"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-FLR/COMPXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-482",
+            "price": "$354.39"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-FLR/COMPXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-297",
+            "price": "$444.43"
+          }
+        ]
       },
       {
         "name": "STRAIGHT BV-FNPTXFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-675",
+            "price": "$489.45"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-356",
+            "price": "$361.02"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-695",
+            "price": "$183.55"
+          }
+        ]
       },
       {
         "name": "Straight BV-FNPTXFNPT W/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-FNPTXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-831",
+            "price": "$132.80"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-FNPTXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-712",
+            "price": "$428.81"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-FNPTXFNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-174",
+            "price": "$192.54"
+          }
+        ]
       },
       {
         "name": "STRAIGHT BV-FNPTxMNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-FNPTXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-679",
+            "price": "$189.30"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-FNPTXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-597",
+            "price": "$442.55"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-FNPTXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-669",
+            "price": "$479.36"
+          }
+        ]
       },
       {
         "name": "STRAIGHT BV-FNPTxMNPT w/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-FNPTXMNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-273",
+            "price": "$283.51"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-FNPTXMNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-650",
+            "price": "$157.52"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-FNPTXMNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-162",
+            "price": "$121.54"
+          }
+        ]
       },
       {
         "name": "Straight BV-Insulated",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-INSULATED",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-347",
+            "price": "$95.92"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-INSULATED",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-442",
+            "price": "$165.42"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-INSULATED",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-690",
+            "price": "$467.86"
+          }
+        ]
       },
       {
         "name": "STRAIGHT BV-MNPTxMNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-MNPTXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-461",
+            "price": "$150.35"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-MNPTXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-698",
+            "price": "$145.63"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-MNPTXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-264",
+            "price": "$89.84"
+          }
+        ]
       },
       {
         "name": "STRAIGHT BV-MNPTxMNPT w/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-MNPTXMNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-375",
+            "price": "$279.44"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT BV-MNPTXMNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-552",
+            "price": "$456.93"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-MNPTXMNPT W/LW",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-114",
+            "price": "$469.25"
+          }
+        ]
       },
       {
         "name": "Straight Minn BV-COMPxCOMP",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 STRAIGHT MINN BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-890",
+            "price": "$216.45"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT MINN BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-114",
+            "price": "$393.98"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT MINN BV-COMPXCOMP",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-303",
+            "price": "$486.80"
+          }
+        ]
       },
       {
         "name": "Straight Minn BV-COMPxFLARE",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 STRAIGHT MINN BV-COMPXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-275",
+            "price": "$163.12"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT MINN BV-COMPXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-181",
+            "price": "$226.72"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT MINN BV-COMPXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-524",
+            "price": "$194.22"
+          }
+        ]
       },
       {
         "name": "Straight Minn BV-COMPxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT MINN BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-826",
+            "price": "$280.84"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT MINN BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-182",
+            "price": "$385.32"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT MINN BV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-579",
+            "price": "$324.92"
+          }
+        ]
       },
       {
         "name": "Straight Minn BV-FLARExFLARE",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 STRAIGHT MINN BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-269",
+            "price": "$485.50"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT MINN BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-626",
+            "price": "$212.01"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT MINN BV-FLAREXFLARE",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-211",
+            "price": "$409.44"
+          }
+        ]
       },
       {
         "name": "Straight Minn BV-FLARExFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 STRAIGHT MINN BV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-387",
+            "price": "$105.92"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT MINN BV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-827",
+            "price": "$472.60"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT MINN BV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-574",
+            "price": "$358.00"
+          }
+        ]
       },
       {
         "name": "Straight Minn BV-FNPTxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 STRAIGHT MINN BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-713",
+            "price": "$225.89"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT MINN BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-571",
+            "price": "$131.04"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT MINN BV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-619",
+            "price": "$353.04"
+          }
+        ]
       },
       {
         "name": "Straight Minn BV-FNPTxMNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT MINN BV-FNPTXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-257",
+            "price": "$137.66"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT MINN BV-FNPTXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-173",
+            "price": "$396.94"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT MINN BV-FNPTXMNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-334",
+            "price": "$276.36"
+          }
+        ]
       },
       {
         "name": "STRAIGHT BV-MINN-Insulated",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 STRAIGHT BV-MINN-INSULATED",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-298",
+            "price": "$155.48"
+          },
+          {
+            "name": "CURB STOP 1 1/2 STRAIGHT BV-MINN-INSULATED",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-644",
+            "price": "$409.21"
+          },
+          {
+            "name": "CURB STOP 2 STRAIGHT BV-MINN-INSULATED",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-393",
+            "price": "$310.61"
+          }
+        ]
       },
       {
         "name": "Straight Tapered PV-FNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 STRAIGHT TAPERED PV-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-168",
+            "price": "$140.80"
+          },
+          {
+            "name": "CURB STOP 1 STRAIGHT TAPERED PV-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-883",
+            "price": "$457.28"
+          },
+          {
+            "name": "CURB STOP 3/4 STRAIGHT TAPERED PV-FNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-551",
+            "price": "$245.80"
+          }
+        ]
       },
       {
         "name": "Tapered Angle PV-COMPxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 2 TAPERED ANGLE PV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-371",
+            "price": "$353.32"
+          },
+          {
+            "name": "CURB STOP 3/4 TAPERED ANGLE PV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-231",
+            "price": "$260.47"
+          },
+          {
+            "name": "CURB STOP 1 1/2 TAPERED ANGLE PV-COMPXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-839",
+            "price": "$273.37"
+          }
+        ]
       },
       {
         "name": "Tapered Angle PV-FLARExFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 1 1/2 TAPERED ANGLE PV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-832",
+            "price": "$455.70"
+          },
+          {
+            "name": "CURB STOP 2 TAPERED ANGLE PV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-365",
+            "price": "$88.21"
+          },
+          {
+            "name": "CURB STOP 3/4 TAPERED ANGLE PV-FLAREXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-618",
+            "price": "$325.13"
+          }
+        ]
       },
       {
         "name": "Tapered Angle PV-FNPTxFNPT",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "CURB STOP 3/4 TAPERED ANGLE PV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-176",
+            "price": "$135.56"
+          },
+          {
+            "name": "CURB STOP 1 TAPERED ANGLE PV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-534",
+            "price": "$224.80"
+          },
+          {
+            "name": "CURB STOP 2 TAPERED ANGLE PV-FNPTXFNPT",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7610-106",
+            "price": "$479.21"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Meter Valves",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": []
   },
   {
     "category": "Curb Boxes",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": []
   },
   {
     "category": "Service Fittings",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "Angle-Restricted Flow FPBV",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "ANGLE-RESTRICTED FLOW FPBV - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-327",
+            "price": "$342.08"
+          },
+          {
+            "name": "ANGLE-RESTRICTED FLOW FPBV - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-654",
+            "price": "$125.85"
+          },
+          {
+            "name": "ANGLE-RESTRICTED FLOW FPBV - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-448",
+            "price": "$357.39"
+          }
+        ]
       },
       {
         "name": "Angle-Restricted Flow SPBV",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "ANGLE-RESTRICTED FLOW SPBV - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-185",
+            "price": "$293.34"
+          },
+          {
+            "name": "ANGLE-RESTRICTED FLOW SPBV - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-635",
+            "price": "$31.94"
+          },
+          {
+            "name": "ANGLE-RESTRICTED FLOW SPBV - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-688",
+            "price": "$129.00"
+          }
+        ]
       },
       {
         "name": "Meter Valves-Angle-Full Port",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER VALVES-ANGLE-FULL PORT - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-253",
+            "price": "$319.64"
+          },
+          {
+            "name": "METER VALVES-ANGLE-FULL PORT - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-344",
+            "price": "$367.86"
+          },
+          {
+            "name": "METER VALVES-ANGLE-FULL PORT - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-646",
+            "price": "$160.01"
+          }
+        ]
       },
       {
         "name": "Meter Valves-Angle-STD Port",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER VALVES-ANGLE-STD PORT - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-275",
+            "price": "$214.08"
+          },
+          {
+            "name": "METER VALVES-ANGLE-STD PORT - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-766",
+            "price": "$24.14"
+          },
+          {
+            "name": "METER VALVES-ANGLE-STD PORT - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-605",
+            "price": "$115.25"
+          }
+        ]
       },
       {
         "name": "Meter Valves-Ball Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER VALVES-BALL STYLE - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-804",
+            "price": "$79.11"
+          },
+          {
+            "name": "METER VALVES-BALL STYLE - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-352",
+            "price": "$80.50"
+          },
+          {
+            "name": "METER VALVES-BALL STYLE - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-186",
+            "price": "$266.12"
+          }
+        ]
       },
       {
         "name": "Meter Valves-Ball Style S&D",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER VALVES-BALL STYLE S&D - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-451",
+            "price": "$394.18"
+          },
+          {
+            "name": "METER VALVES-BALL STYLE S&D - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-782",
+            "price": "$169.98"
+          },
+          {
+            "name": "METER VALVES-BALL STYLE S&D - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-895",
+            "price": "$231.26"
+          }
+        ]
       },
       {
         "name": "Meter Valves-Angle-Plug",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER VALVES-ANGLE-PLUG - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-766",
+            "price": "$54.19"
+          },
+          {
+            "name": "METER VALVES-ANGLE-PLUG - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-333",
+            "price": "$359.35"
+          },
+          {
+            "name": "METER VALVES-ANGLE-PLUG - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-735",
+            "price": "$81.76"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Meter Couplings & Accessories",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "Meter Couplings-Straight",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER COUPLINGS-STRAIGHT 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-693",
+            "price": "$68.64"
+          },
+          {
+            "name": "METER METER COUPLINGS-STRAIGHT 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-784",
+            "price": "$155.74"
+          },
+          {
+            "name": "METER METER COUPLINGS-STRAIGHT 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-518",
+            "price": "$190.72"
+          }
+        ]
       },
       {
         "name": "Meter Couplings-Full Flange",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER COUPLINGS-FULL FLANGE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-157",
+            "price": "$192.25"
+          },
+          {
+            "name": "METER METER COUPLINGS-FULL FLANGE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-624",
+            "price": "$71.95"
+          },
+          {
+            "name": "METER METER COUPLINGS-FULL FLANGE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-785",
+            "price": "$94.14"
+          }
+        ]
       },
       {
         "name": "Meter Couplings-Oval Flange",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER COUPLINGS-OVAL FLANGE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-389",
+            "price": "$45.20"
+          },
+          {
+            "name": "METER METER COUPLINGS-OVAL FLANGE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-754",
+            "price": "$31.90"
+          },
+          {
+            "name": "METER METER COUPLINGS-OVAL FLANGE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-602",
+            "price": "$172.28"
+          }
+        ]
       },
       {
         "name": "Meter Couplings-Round Flange",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER COUPLINGS-ROUND FLANGE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-292",
+            "price": "$59.03"
+          },
+          {
+            "name": "METER METER COUPLINGS-ROUND FLANGE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-320",
+            "price": "$80.03"
+          },
+          {
+            "name": "METER METER COUPLINGS-ROUND FLANGE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-806",
+            "price": "$113.64"
+          }
+        ]
       },
       {
         "name": "Meter Couplings-Quarter Bend",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER COUPLINGS-QUARTER BEND 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-434",
+            "price": "$165.42"
+          },
+          {
+            "name": "METER METER COUPLINGS-QUARTER BEND 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-201",
+            "price": "$187.05"
+          },
+          {
+            "name": "METER METER COUPLINGS-QUARTER BEND 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-134",
+            "price": "$102.89"
+          }
+        ]
       },
       {
         "name": "Meter Couplings-Eighth Bend",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER COUPLINGS-EIGHTH BEND 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-357",
+            "price": "$89.37"
+          },
+          {
+            "name": "METER METER COUPLINGS-EIGHTH BEND 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-276",
+            "price": "$146.06"
+          },
+          {
+            "name": "METER METER COUPLINGS-EIGHTH BEND 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-770",
+            "price": "$51.26"
+          }
+        ]
       },
       {
         "name": "Meter Gaskets",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER GASKETS 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-841",
+            "price": "$163.60"
+          },
+          {
+            "name": "METER METER GASKETS 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-585",
+            "price": "$88.42"
+          },
+          {
+            "name": "METER METER GASKETS 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-888",
+            "price": "$171.44"
+          }
+        ]
       },
       {
         "name": "Meter Adapters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER ADAPTERS 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-382",
+            "price": "$96.16"
+          },
+          {
+            "name": "METER METER ADAPTERS 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-257",
+            "price": "$84.11"
+          },
+          {
+            "name": "METER METER ADAPTERS 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-224",
+            "price": "$150.29"
+          }
+        ]
       },
       {
         "name": "Tees",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER TEES 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-414",
+            "price": "$114.05"
+          },
+          {
+            "name": "METER TEES 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-364",
+            "price": "$149.93"
+          },
+          {
+            "name": "METER TEES 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-425",
+            "price": "$68.28"
+          }
+        ]
       },
       {
         "name": "Insulated Meter Couplings",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER INSULATED METER COUPLINGS 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-118",
+            "price": "$68.65"
+          },
+          {
+            "name": "METER INSULATED METER COUPLINGS 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-221",
+            "price": "$179.54"
+          },
+          {
+            "name": "METER INSULATED METER COUPLINGS 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-322",
+            "price": "$172.42"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Single & Dual Checks",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "Single Check Valves",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SINGLE CHECK VALVES - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-445",
+            "price": "$215.57"
+          },
+          {
+            "name": "SINGLE CHECK VALVES - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-883",
+            "price": "$51.06"
+          },
+          {
+            "name": "SINGLE CHECK VALVES - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-182",
+            "price": "$308.38"
+          }
+        ]
       },
       {
         "name": "Inline Dual Check Valves",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "INLINE DUAL CHECK VALVES - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-571",
+            "price": "$48.51"
+          },
+          {
+            "name": "INLINE DUAL CHECK VALVES - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-812",
+            "price": "$113.08"
+          },
+          {
+            "name": "INLINE DUAL CHECK VALVES - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-735",
+            "price": "$337.76"
+          }
+        ]
       },
       {
         "name": "Angle Dual Check Valves",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "ANGLE DUAL CHECK VALVES - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-634",
+            "price": "$99.65"
+          },
+          {
+            "name": "ANGLE DUAL CHECK VALVES - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-763",
+            "price": "$33.60"
+          },
+          {
+            "name": "ANGLE DUAL CHECK VALVES - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-402",
+            "price": "$188.49"
+          }
+        ]
       },
       {
         "name": "Oval Flanged Angle Dual Check",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "OVAL FLANGED ANGLE DUAL CHECK - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-415",
+            "price": "$141.16"
+          },
+          {
+            "name": "OVAL FLANGED ANGLE DUAL CHECK - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-434",
+            "price": "$104.34"
+          },
+          {
+            "name": "OVAL FLANGED ANGLE DUAL CHECK - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-795",
+            "price": "$353.31"
+          }
+        ]
       },
       {
         "name": "Inline Accessible Dual Check",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "INLINE ACCESSIBLE DUAL CHECK - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-324",
+            "price": "$28.33"
+          },
+          {
+            "name": "INLINE ACCESSIBLE DUAL CHECK - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-316",
+            "price": "$399.65"
+          },
+          {
+            "name": "INLINE ACCESSIBLE DUAL CHECK - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-879",
+            "price": "$150.01"
+          }
+        ]
       },
       {
         "name": "Angle Cascading Dual Check",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "ANGLE CASCADING DUAL CHECK - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-497",
+            "price": "$341.18"
+          },
+          {
+            "name": "ANGLE CASCADING DUAL CHECK - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-605",
+            "price": "$61.46"
+          },
+          {
+            "name": "ANGLE CASCADING DUAL CHECK - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-727",
+            "price": "$374.51"
+          }
+        ]
       },
       {
         "name": "Inline Y Cascading Dual Check",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "INLINE Y CASCADING DUAL CHECK - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-611",
+            "price": "$344.56"
+          },
+          {
+            "name": "INLINE Y CASCADING DUAL CHECK - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-232",
+            "price": "$271.16"
+          },
+          {
+            "name": "INLINE Y CASCADING DUAL CHECK - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-272",
+            "price": "$101.46"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Unmeasured Flow Reducer (UFR)",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "UFR-With Check Valve-Inline",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "UFR-WITH CHECK VALVE-INLINE - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-171",
+            "price": "$285.82"
+          },
+          {
+            "name": "UFR-WITH CHECK VALVE-INLINE - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-383",
+            "price": "$54.26"
+          },
+          {
+            "name": "UFR-WITH CHECK VALVE-INLINE - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-845",
+            "price": "$31.94"
+          }
+        ]
       },
       {
         "name": "UFR-Inline",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "UFR-INLINE - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-501",
+            "price": "$200.17"
+          },
+          {
+            "name": "UFR-INLINE - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-292",
+            "price": "$296.25"
+          },
+          {
+            "name": "UFR-INLINE - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-156",
+            "price": "$390.27"
+          }
+        ]
       },
       {
         "name": "UFR-Inline Accesible",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "UFR-INLINE ACCESIBLE - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-155",
+            "price": "$103.16"
+          },
+          {
+            "name": "UFR-INLINE ACCESIBLE - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-661",
+            "price": "$31.22"
+          },
+          {
+            "name": "UFR-INLINE ACCESIBLE - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-367",
+            "price": "$31.13"
+          }
+        ]
       },
       {
         "name": "UFR-Angled",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "UFR-ANGLED - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-734",
+            "price": "$202.98"
+          },
+          {
+            "name": "UFR-ANGLED - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-374",
+            "price": "$294.56"
+          },
+          {
+            "name": "UFR-ANGLED - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-611",
+            "price": "$155.32"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Copper Meter Resetters",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "Tandem Resetters-Horizontal",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER TANDEM RESETTERS-HORIZONTAL 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-623",
+            "price": "$166.69"
+          },
+          {
+            "name": "METER TANDEM RESETTERS-HORIZONTAL 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-638",
+            "price": "$35.94"
+          },
+          {
+            "name": "METER TANDEM RESETTERS-HORIZONTAL 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-396",
+            "price": "$158.40"
+          }
+        ]
       },
       {
         "name": "Tandem Resetters-Inline",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER TANDEM RESETTERS-INLINE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-852",
+            "price": "$79.42"
+          },
+          {
+            "name": "METER TANDEM RESETTERS-INLINE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-543",
+            "price": "$104.95"
+          },
+          {
+            "name": "METER TANDEM RESETTERS-INLINE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-239",
+            "price": "$149.86"
+          }
+        ]
       },
       {
         "name": "Tandem Resetters-Inverted",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER TANDEM RESETTERS-INVERTED 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-663",
+            "price": "$52.78"
+          },
+          {
+            "name": "METER TANDEM RESETTERS-INVERTED 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-771",
+            "price": "$75.90"
+          },
+          {
+            "name": "METER TANDEM RESETTERS-INVERTED 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-636",
+            "price": "$177.55"
+          }
+        ]
       },
       {
         "name": "Meter Resetters-Flexible",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER RESETTERS-FLEXIBLE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-728",
+            "price": "$124.52"
+          },
+          {
+            "name": "METER METER RESETTERS-FLEXIBLE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-222",
+            "price": "$62.08"
+          },
+          {
+            "name": "METER METER RESETTERS-FLEXIBLE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-526",
+            "price": "$170.72"
+          }
+        ]
       },
       {
         "name": "710 Series",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER 710 SERIES 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-520",
+            "price": "$179.01"
+          },
+          {
+            "name": "METER 710 SERIES 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-271",
+            "price": "$153.23"
+          },
+          {
+            "name": "METER 710 SERIES 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-869",
+            "price": "$48.54"
+          }
+        ]
       },
       {
         "name": "Meter Resetters-Low Rise",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER RESETTERS-LOW RISE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-273",
+            "price": "$51.70"
+          },
+          {
+            "name": "METER METER RESETTERS-LOW RISE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-294",
+            "price": "$99.98"
+          },
+          {
+            "name": "METER METER RESETTERS-LOW RISE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-692",
+            "price": "$119.58"
+          }
+        ]
       },
       {
         "name": "Meter Resetters-Horizontal",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER RESETTERS-HORIZONTAL 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-392",
+            "price": "$57.20"
+          },
+          {
+            "name": "METER METER RESETTERS-HORIZONTAL 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-535",
+            "price": "$73.74"
+          },
+          {
+            "name": "METER METER RESETTERS-HORIZONTAL 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-162",
+            "price": "$141.21"
+          }
+        ]
       },
       {
         "name": "Meter Resetters-Vert to Horiz",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER RESETTERS-VERT TO HORIZ 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-677",
+            "price": "$66.62"
+          },
+          {
+            "name": "METER METER RESETTERS-VERT TO HORIZ 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-781",
+            "price": "$195.85"
+          },
+          {
+            "name": "METER METER RESETTERS-VERT TO HORIZ 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-446",
+            "price": "$30.62"
+          }
+        ]
       },
       {
         "name": "Meter Resetters-Inverted",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER RESETTERS-INVERTED 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-116",
+            "price": "$70.68"
+          },
+          {
+            "name": "METER METER RESETTERS-INVERTED 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-427",
+            "price": "$195.10"
+          },
+          {
+            "name": "METER METER RESETTERS-INVERTED 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-415",
+            "price": "$109.73"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Sampling Station",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "Resetters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "RESETTERS - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-591",
+            "price": "$258.82"
+          },
+          {
+            "name": "RESETTERS - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-866",
+            "price": "$192.68"
+          },
+          {
+            "name": "RESETTERS - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-229",
+            "price": "$360.10"
+          }
+        ]
       },
       {
         "name": "Sampling Station Fitting",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "SAMPLING STATION FITTING - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-578",
+            "price": "$240.31"
+          },
+          {
+            "name": "SAMPLING STATION FITTING - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-371",
+            "price": "$129.42"
+          },
+          {
+            "name": "SAMPLING STATION FITTING - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-316",
+            "price": "$179.50"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Copper Meter Setters",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "Copper Meter Setters-Horiz",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER COPPER METER SETTERS-HORIZ 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-740",
+            "price": "$190.58"
+          },
+          {
+            "name": "METER COPPER METER SETTERS-HORIZ 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-501",
+            "price": "$66.22"
+          },
+          {
+            "name": "METER COPPER METER SETTERS-HORIZ 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-294",
+            "price": "$74.39"
+          }
+        ]
       },
       {
         "name": "Copper Meter Setters-Vertical",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER COPPER METER SETTERS-VERTICAL 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-373",
+            "price": "$39.20"
+          },
+          {
+            "name": "METER COPPER METER SETTERS-VERTICAL 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-376",
+            "price": "$66.04"
+          },
+          {
+            "name": "METER COPPER METER SETTERS-VERTICAL 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-769",
+            "price": "$172.46"
+          }
+        ]
       },
       {
         "name": "Copper MTR, Setters-Vert/Hori",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER COPPER MTR, SETTERS-VERT/HORI 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-339",
+            "price": "$101.02"
+          },
+          {
+            "name": "METER COPPER MTR, SETTERS-VERT/HORI 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-445",
+            "price": "$60.04"
+          },
+          {
+            "name": "METER COPPER MTR, SETTERS-VERT/HORI 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-229",
+            "price": "$87.01"
+          }
+        ]
       },
       {
         "name": "F Style Meter Setters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER F STYLE METER SETTERS 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-376",
+            "price": "$127.49"
+          },
+          {
+            "name": "METER F STYLE METER SETTERS 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-381",
+            "price": "$171.84"
+          },
+          {
+            "name": "METER F STYLE METER SETTERS 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-345",
+            "price": "$117.08"
+          }
+        ]
       },
       {
         "name": "F Style Tandem Meter Setters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER F STYLE TANDEM METER SETTERS 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-401",
+            "price": "$111.18"
+          },
+          {
+            "name": "METER F STYLE TANDEM METER SETTERS 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-885",
+            "price": "$78.37"
+          },
+          {
+            "name": "METER F STYLE TANDEM METER SETTERS 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-841",
+            "price": "$150.10"
+          }
+        ]
       },
       {
         "name": "L-Style Meter Setters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER L-STYLE METER SETTERS 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-150",
+            "price": "$181.01"
+          },
+          {
+            "name": "METER L-STYLE METER SETTERS 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-452",
+            "price": "$41.24"
+          },
+          {
+            "name": "METER L-STYLE METER SETTERS 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-775",
+            "price": "$77.11"
+          }
+        ]
       },
       {
         "name": "L-Style Setters - Adjustable",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER L-STYLE SETTERS - ADJUSTABLE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-535",
+            "price": "$49.62"
+          },
+          {
+            "name": "METER L-STYLE SETTERS - ADJUSTABLE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-401",
+            "price": "$49.40"
+          },
+          {
+            "name": "METER L-STYLE SETTERS - ADJUSTABLE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-486",
+            "price": "$155.47"
+          }
+        ]
       },
       {
         "name": "Copper Meter Setters-No Rise",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER COPPER METER SETTERS-NO RISE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-715",
+            "price": "$137.33"
+          },
+          {
+            "name": "METER COPPER METER SETTERS-NO RISE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-199",
+            "price": "$183.99"
+          },
+          {
+            "name": "METER COPPER METER SETTERS-NO RISE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-410",
+            "price": "$155.45"
+          }
+        ]
       },
       {
         "name": "Tandem Setters-Horiz",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER TANDEM SETTERS-HORIZ 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-873",
+            "price": "$139.75"
+          },
+          {
+            "name": "METER TANDEM SETTERS-HORIZ 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-138",
+            "price": "$86.06"
+          },
+          {
+            "name": "METER TANDEM SETTERS-HORIZ 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-636",
+            "price": "$72.08"
+          }
+        ]
       },
       {
         "name": "Tandem Setters-Vertical",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER TANDEM SETTERS-VERTICAL 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-859",
+            "price": "$122.17"
+          },
+          {
+            "name": "METER TANDEM SETTERS-VERTICAL 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-459",
+            "price": "$109.97"
+          },
+          {
+            "name": "METER TANDEM SETTERS-VERTICAL 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-268",
+            "price": "$185.25"
+          }
+        ]
       },
       {
         "name": "Meter Idler",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER METER IDLER 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-368",
+            "price": "$192.33"
+          },
+          {
+            "name": "METER METER IDLER 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-795",
+            "price": "$134.81"
+          },
+          {
+            "name": "METER METER IDLER 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-730",
+            "price": "$179.32"
+          }
+        ]
       },
       {
         "name": "Union End Piece",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER UNION END PIECE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-481",
+            "price": "$141.03"
+          },
+          {
+            "name": "METER UNION END PIECE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-474",
+            "price": "$146.14"
+          },
+          {
+            "name": "METER UNION END PIECE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-892",
+            "price": "$112.09"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Copper Meter Insetters",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "C Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER C STYLE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-534",
+            "price": "$112.15"
+          },
+          {
+            "name": "METER C STYLE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-446",
+            "price": "$198.16"
+          },
+          {
+            "name": "METER C STYLE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-297",
+            "price": "$35.12"
+          }
+        ]
       },
       {
         "name": "K Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER K STYLE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-620",
+            "price": "$115.48"
+          },
+          {
+            "name": "METER K STYLE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-852",
+            "price": "$196.09"
+          },
+          {
+            "name": "METER K STYLE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-195",
+            "price": "$148.67"
+          }
+        ]
       },
       {
         "name": "H Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER H STYLE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-394",
+            "price": "$105.12"
+          },
+          {
+            "name": "METER H STYLE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-122",
+            "price": "$125.47"
+          },
+          {
+            "name": "METER H STYLE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-518",
+            "price": "$52.99"
+          }
+        ]
       },
       {
         "name": "M Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER M STYLE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-815",
+            "price": "$157.29"
+          },
+          {
+            "name": "METER M STYLE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-399",
+            "price": "$86.65"
+          },
+          {
+            "name": "METER M STYLE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-273",
+            "price": "$158.34"
+          }
+        ]
       },
       {
         "name": "Union End Piece",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER UNION END PIECE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-269",
+            "price": "$78.11"
+          },
+          {
+            "name": "METER UNION END PIECE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-555",
+            "price": "$90.22"
+          },
+          {
+            "name": "METER UNION END PIECE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-272",
+            "price": "$109.17"
+          }
+        ]
       },
       {
         "name": "PU Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER PU STYLE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-228",
+            "price": "$124.15"
+          },
+          {
+            "name": "METER PU STYLE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-537",
+            "price": "$79.61"
+          },
+          {
+            "name": "METER PU STYLE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-541",
+            "price": "$102.30"
+          }
+        ]
       },
       {
         "name": "PZ Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER PZ STYLE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-409",
+            "price": "$130.84"
+          },
+          {
+            "name": "METER PZ STYLE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-458",
+            "price": "$62.91"
+          },
+          {
+            "name": "METER PZ STYLE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-615",
+            "price": "$144.42"
+          }
+        ]
       },
       {
         "name": "PZ Style-Right offest",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER PZ STYLE-RIGHT OFFEST 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-113",
+            "price": "$84.63"
+          },
+          {
+            "name": "METER PZ STYLE-RIGHT OFFEST 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-481",
+            "price": "$30.81"
+          },
+          {
+            "name": "METER PZ STYLE-RIGHT OFFEST 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-330",
+            "price": "$71.77"
+          }
+        ]
       },
       {
         "name": "W Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER W STYLE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-429",
+            "price": "$69.61"
+          },
+          {
+            "name": "METER W STYLE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-310",
+            "price": "$188.36"
+          },
+          {
+            "name": "METER W STYLE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-263",
+            "price": "$188.96"
+          }
+        ]
       },
       {
         "name": "UFR-Inline",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER UFR-INLINE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-596",
+            "price": "$92.09"
+          },
+          {
+            "name": "METER UFR-INLINE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-699",
+            "price": "$43.34"
+          },
+          {
+            "name": "METER UFR-INLINE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-497",
+            "price": "$118.08"
+          }
+        ]
       },
       {
         "name": "Adapters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER ADAPTERS 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-782",
+            "price": "$106.56"
+          },
+          {
+            "name": "METER ADAPTERS 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-374",
+            "price": "$195.49"
+          },
+          {
+            "name": "METER ADAPTERS 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-367",
+            "price": "$130.90"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Pit Setters",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "Dual Riser Style Pit Setters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "DUAL RISER STYLE PIT SETTERS - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-799",
+            "price": "$327.11"
+          },
+          {
+            "name": "DUAL RISER STYLE PIT SETTERS - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-537",
+            "price": "$290.01"
+          },
+          {
+            "name": "DUAL RISER STYLE PIT SETTERS - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-168",
+            "price": "$92.04"
+          }
+        ]
       },
       {
         "name": "Tandem Riser Style Pit Setters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "TANDEM RISER STYLE PIT SETTERS - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-414",
+            "price": "$244.70"
+          },
+          {
+            "name": "TANDEM RISER STYLE PIT SETTERS - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-377",
+            "price": "$288.14"
+          },
+          {
+            "name": "TANDEM RISER STYLE PIT SETTERS - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-801",
+            "price": "$164.76"
+          }
+        ]
       },
       {
         "name": "Risers Only",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "RISERS ONLY - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-796",
+            "price": "$167.64"
+          },
+          {
+            "name": "RISERS ONLY - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-511",
+            "price": "$376.21"
+          },
+          {
+            "name": "RISERS ONLY - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-703",
+            "price": "$280.96"
+          }
+        ]
       },
       {
         "name": "Dual Coil Style Pit Setters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "DUAL COIL STYLE PIT SETTERS - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-490",
+            "price": "$327.27"
+          },
+          {
+            "name": "DUAL COIL STYLE PIT SETTERS - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-739",
+            "price": "$382.83"
+          },
+          {
+            "name": "DUAL COIL STYLE PIT SETTERS - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-390",
+            "price": "$95.03"
+          }
+        ]
       },
       {
         "name": "Tandem Coil Pit Setters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "TANDEM COIL PIT SETTERS - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-729",
+            "price": "$23.24"
+          },
+          {
+            "name": "TANDEM COIL PIT SETTERS - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-435",
+            "price": "$262.43"
+          },
+          {
+            "name": "TANDEM COIL PIT SETTERS - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-296",
+            "price": "$115.02"
+          }
+        ]
       },
       {
         "name": "Adjustable Tandem Pit",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "ADJUSTABLE TANDEM PIT - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-566",
+            "price": "$218.59"
+          },
+          {
+            "name": "ADJUSTABLE TANDEM PIT - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-377",
+            "price": "$134.08"
+          },
+          {
+            "name": "ADJUSTABLE TANDEM PIT - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-894",
+            "price": "$362.52"
+          }
+        ]
       },
       {
         "name": "Riser Style Pit Setters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "RISER STYLE PIT SETTERS - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-426",
+            "price": "$161.76"
+          },
+          {
+            "name": "RISER STYLE PIT SETTERS - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-716",
+            "price": "$244.36"
+          },
+          {
+            "name": "RISER STYLE PIT SETTERS - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-465",
+            "price": "$176.69"
+          }
+        ]
       },
       {
         "name": "Iron Yoke Pit",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "IRON YOKE PIT - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-281",
+            "price": "$56.53"
+          },
+          {
+            "name": "IRON YOKE PIT - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-316",
+            "price": "$384.28"
+          },
+          {
+            "name": "IRON YOKE PIT - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-892",
+            "price": "$225.82"
+          }
+        ]
       },
       {
         "name": "Flat Lid Pit Assembly",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "FLAT LID PIT ASSEMBLY - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-639",
+            "price": "$52.60"
+          },
+          {
+            "name": "FLAT LID PIT ASSEMBLY - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-514",
+            "price": "$389.66"
+          },
+          {
+            "name": "FLAT LID PIT ASSEMBLY - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-751",
+            "price": "$303.80"
+          }
+        ]
       },
       {
         "name": "Coil Style Pit Setters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "COIL STYLE PIT SETTERS - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-288",
+            "price": "$162.26"
+          },
+          {
+            "name": "COIL STYLE PIT SETTERS - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-526",
+            "price": "$244.25"
+          },
+          {
+            "name": "COIL STYLE PIT SETTERS - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-422",
+            "price": "$281.28"
+          }
+        ]
       },
       {
         "name": "Adjustable Pit Setters",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "ADJUSTABLE PIT SETTERS - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-156",
+            "price": "$142.05"
+          },
+          {
+            "name": "ADJUSTABLE PIT SETTERS - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-238",
+            "price": "$205.13"
+          },
+          {
+            "name": "ADJUSTABLE PIT SETTERS - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-821",
+            "price": "$366.28"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Meter Box Frames & Covers",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "Recessed-A Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER RECESSED-A STYLE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-267",
+            "price": "$36.31"
+          },
+          {
+            "name": "METER RECESSED-A STYLE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-752",
+            "price": "$97.35"
+          },
+          {
+            "name": "METER RECESSED-A STYLE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-138",
+            "price": "$121.96"
+          }
+        ]
       },
       {
         "name": "Recessed-AC Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER RECESSED-AC STYLE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-469",
+            "price": "$52.11"
+          },
+          {
+            "name": "METER RECESSED-AC STYLE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-857",
+            "price": "$178.19"
+          },
+          {
+            "name": "METER RECESSED-AC STYLE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-198",
+            "price": "$97.11"
+          }
+        ]
       },
       {
         "name": "Non Recessed-C Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER NON RECESSED-C STYLE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-234",
+            "price": "$137.61"
+          },
+          {
+            "name": "METER NON RECESSED-C STYLE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-730",
+            "price": "$34.76"
+          },
+          {
+            "name": "METER NON RECESSED-C STYLE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-821",
+            "price": "$30.19"
+          }
+        ]
       },
       {
         "name": "Non Recessed-AC Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER NON RECESSED-AC STYLE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-503",
+            "price": "$179.39"
+          },
+          {
+            "name": "METER NON RECESSED-AC STYLE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-389",
+            "price": "$47.69"
+          },
+          {
+            "name": "METER NON RECESSED-AC STYLE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-820",
+            "price": "$80.84"
+          }
+        ]
       },
       {
         "name": "Recessed-W Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER RECESSED-W STYLE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-223",
+            "price": "$46.30"
+          },
+          {
+            "name": "METER RECESSED-W STYLE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-284",
+            "price": "$168.75"
+          },
+          {
+            "name": "METER RECESSED-W STYLE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-104",
+            "price": "$186.64"
+          }
+        ]
       },
       {
         "name": "Monitor Style",
+        "imgSrc": "/assets/meter boxes/6.svg",
         "items": [
           {
             "name": "74M24LBTTIL FLANGE 24-RISER& RECESSED COVER 20 LB - OFST HOLE (2) IN LID",
+            "imgSrc": "/assets/meter boxes/6.svg",
             "id": "4173-158",
             "price": ""
           }
@@ -956,149 +5007,831 @@
       },
       {
         "name": "PR Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER PR STYLE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-469",
+            "price": "$103.61"
+          },
+          {
+            "name": "METER PR STYLE 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-733",
+            "price": "$57.80"
+          },
+          {
+            "name": "METER PR STYLE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-410",
+            "price": "$92.81"
+          }
+        ]
       },
       {
         "name": "Rotational Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER ROTATIONAL STYLE 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-405",
+            "price": "$148.41"
+          },
+          {
+            "name": "METER ROTATIONAL STYLE 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-453",
+            "price": "$146.77"
+          },
+          {
+            "name": "METER ROTATIONAL STYLE 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-492",
+            "price": "$80.09"
+          }
+        ]
       },
       {
         "name": "90 Style Pit Lids",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER 90 STYLE PIT LIDS 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-571",
+            "price": "$91.69"
+          },
+          {
+            "name": "METER 90 STYLE PIT LIDS 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-787",
+            "price": "$48.20"
+          },
+          {
+            "name": "METER 90 STYLE PIT LIDS 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "7400-742",
+            "price": "$193.17"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Iron Yokes",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "Yoke Bars",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE BARS - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-895",
+            "price": "$360.19"
+          },
+          {
+            "name": "YOKE BARS - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-186",
+            "price": "$105.19"
+          },
+          {
+            "name": "YOKE BARS - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-706",
+            "price": "$303.35"
+          }
+        ]
       },
       {
         "name": "Yoke Dual Check Valves",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE DUAL CHECK VALVES - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-110",
+            "price": "$217.59"
+          },
+          {
+            "name": "YOKE DUAL CHECK VALVES - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-596",
+            "price": "$171.55"
+          },
+          {
+            "name": "YOKE DUAL CHECK VALVES - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-323",
+            "price": "$385.51"
+          }
+        ]
       },
       {
         "name": "Yoke Single Check Valves",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE SINGLE CHECK VALVES - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-768",
+            "price": "$127.62"
+          },
+          {
+            "name": "YOKE SINGLE CHECK VALVES - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-858",
+            "price": "$81.29"
+          },
+          {
+            "name": "YOKE SINGLE CHECK VALVES - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-146",
+            "price": "$220.13"
+          }
+        ]
       },
       {
         "name": "Yoke Expanders",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE EXPANDERS - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-670",
+            "price": "$134.13"
+          },
+          {
+            "name": "YOKE EXPANDERS - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-844",
+            "price": "$101.12"
+          },
+          {
+            "name": "YOKE EXPANDERS - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-140",
+            "price": "$167.21"
+          }
+        ]
       },
       {
         "name": "Yoke Inline Acc Dual Check",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE INLINE ACC DUAL CHECK - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-380",
+            "price": "$176.83"
+          },
+          {
+            "name": "YOKE INLINE ACC DUAL CHECK - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-634",
+            "price": "$152.45"
+          },
+          {
+            "name": "YOKE INLINE ACC DUAL CHECK - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-254",
+            "price": "$68.72"
+          }
+        ]
       },
       {
         "name": "UFR For Yoke",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "UFR FOR YOKE - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-501",
+            "price": "$397.84"
+          },
+          {
+            "name": "UFR FOR YOKE - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-160",
+            "price": "$342.02"
+          },
+          {
+            "name": "UFR FOR YOKE - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-106",
+            "price": "$37.58"
+          }
+        ]
       },
       {
         "name": "Wrenches",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "WRENCHES - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-242",
+            "price": "$207.14"
+          },
+          {
+            "name": "WRENCHES - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-109",
+            "price": "$239.06"
+          },
+          {
+            "name": "WRENCHES - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-739",
+            "price": "$113.77"
+          }
+        ]
       },
       {
         "name": "Star Nuts & Gaskets",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "STAR NUTS & GASKETS - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-158",
+            "price": "$389.04"
+          },
+          {
+            "name": "STAR NUTS & GASKETS - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-463",
+            "price": "$50.83"
+          },
+          {
+            "name": "STAR NUTS & GASKETS - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-475",
+            "price": "$199.24"
+          }
+        ]
       },
       {
         "name": "Yoke Valves-Plug Style",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE VALVES-PLUG STYLE - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-751",
+            "price": "$53.83"
+          },
+          {
+            "name": "YOKE VALVES-PLUG STYLE - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-562",
+            "price": "$57.57"
+          },
+          {
+            "name": "YOKE VALVES-PLUG STYLE - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-404",
+            "price": "$376.97"
+          }
+        ]
       },
       {
         "name": "Yoke Valves-Angle-STD Port",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE VALVES-ANGLE-STD PORT - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-155",
+            "price": "$211.47"
+          },
+          {
+            "name": "YOKE VALVES-ANGLE-STD PORT - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-158",
+            "price": "$164.07"
+          },
+          {
+            "name": "YOKE VALVES-ANGLE-STD PORT - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-371",
+            "price": "$375.69"
+          }
+        ]
       },
       {
         "name": "Yoke Valves-Angle-Full Port",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE VALVES-ANGLE-FULL PORT - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-741",
+            "price": "$287.33"
+          },
+          {
+            "name": "YOKE VALVES-ANGLE-FULL PORT - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-878",
+            "price": "$271.87"
+          },
+          {
+            "name": "YOKE VALVES-ANGLE-FULL PORT - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-511",
+            "price": "$176.39"
+          }
+        ]
       },
       {
         "name": "Yoke Valves-Straight",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE VALVES-STRAIGHT - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-551",
+            "price": "$268.62"
+          },
+          {
+            "name": "YOKE VALVES-STRAIGHT - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-863",
+            "price": "$209.58"
+          },
+          {
+            "name": "YOKE VALVES-STRAIGHT - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-222",
+            "price": "$103.93"
+          }
+        ]
       },
       {
         "name": "Yoke Valves-Straight W/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE VALVES-STRAIGHT W/LW - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-715",
+            "price": "$270.47"
+          },
+          {
+            "name": "YOKE VALVES-STRAIGHT W/LW - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-790",
+            "price": "$96.91"
+          },
+          {
+            "name": "YOKE VALVES-STRAIGHT W/LW - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-360",
+            "price": "$171.15"
+          }
+        ]
       },
       {
         "name": "Yoke Couplings",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE COUPLINGS - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-746",
+            "price": "$292.70"
+          },
+          {
+            "name": "YOKE COUPLINGS - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-367",
+            "price": "$393.72"
+          },
+          {
+            "name": "YOKE COUPLINGS - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-150",
+            "price": "$109.12"
+          }
+        ]
       },
       {
         "name": "Yoke Quarter Bends",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE QUARTER BENDS - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-528",
+            "price": "$156.85"
+          },
+          {
+            "name": "YOKE QUARTER BENDS - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-832",
+            "price": "$290.10"
+          },
+          {
+            "name": "YOKE QUARTER BENDS - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-810",
+            "price": "$268.19"
+          }
+        ]
       },
       {
         "name": "Yoke Quarter Bends W/LW",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE QUARTER BENDS W/LW - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-533",
+            "price": "$273.11"
+          },
+          {
+            "name": "YOKE QUARTER BENDS W/LW - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-336",
+            "price": "$351.37"
+          },
+          {
+            "name": "YOKE QUARTER BENDS W/LW - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-342",
+            "price": "$357.14"
+          }
+        ]
       },
       {
         "name": "Yoke Retro Couplings",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE RETRO COUPLINGS - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-691",
+            "price": "$310.32"
+          },
+          {
+            "name": "YOKE RETRO COUPLINGS - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-266",
+            "price": "$174.15"
+          },
+          {
+            "name": "YOKE RETRO COUPLINGS - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-671",
+            "price": "$332.74"
+          }
+        ]
       },
       {
         "name": "Yoke Retro Quarter Bend",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE RETRO QUARTER BEND - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-472",
+            "price": "$194.92"
+          },
+          {
+            "name": "YOKE RETRO QUARTER BEND - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-350",
+            "price": "$307.95"
+          },
+          {
+            "name": "YOKE RETRO QUARTER BEND - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-336",
+            "price": "$240.41"
+          }
+        ]
       },
       {
         "name": "Yoke Check Valves",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE CHECK VALVES - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-564",
+            "price": "$322.19"
+          },
+          {
+            "name": "YOKE CHECK VALVES - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-608",
+            "price": "$143.82"
+          },
+          {
+            "name": "YOKE CHECK VALVES - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-240",
+            "price": "$252.58"
+          }
+        ]
       },
       {
         "name": "Yoke Angle Dual Check",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE ANGLE DUAL CHECK - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-431",
+            "price": "$85.95"
+          },
+          {
+            "name": "YOKE ANGLE DUAL CHECK - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-504",
+            "price": "$89.28"
+          },
+          {
+            "name": "YOKE ANGLE DUAL CHECK - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-866",
+            "price": "$166.37"
+          }
+        ]
       },
       {
         "name": "Yoke U-Branch Assemblies",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE U-BRANCH ASSEMBLIES - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-726",
+            "price": "$152.04"
+          },
+          {
+            "name": "YOKE U-BRANCH ASSEMBLIES - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-371",
+            "price": "$282.80"
+          },
+          {
+            "name": "YOKE U-BRANCH ASSEMBLIES - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-386",
+            "price": "$80.74"
+          }
+        ]
       },
       {
         "name": "Yoke Assemblies",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE ASSEMBLIES - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-804",
+            "price": "$169.08"
+          },
+          {
+            "name": "YOKE ASSEMBLIES - 1 1/2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-460",
+            "price": "$53.61"
+          },
+          {
+            "name": "YOKE ASSEMBLIES - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-275",
+            "price": "$194.87"
+          }
+        ]
       },
       {
         "name": "Yoke PKG-Not Assembled",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "YOKE PKG-NOT ASSEMBLED - 1 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-752",
+            "price": "$328.73"
+          },
+          {
+            "name": "YOKE PKG-NOT ASSEMBLED - 3/4 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-373",
+            "price": "$199.40"
+          },
+          {
+            "name": "YOKE PKG-NOT ASSEMBLED - 2 IN",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "9999-764",
+            "price": "$68.28"
+          }
+        ]
       }
     ]
   },
   {
     "category": "Meter Boxes",
+    "imgSrc": "/assets/meter boxes/6.svg",
     "subcategories": [
       {
         "name": "G Series Meter Box",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER BOX 1 G SERIES METER BOX",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-703",
+            "price": "$352.26"
+          },
+          {
+            "name": "METER BOX 1 1/2 G SERIES METER BOX",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-617",
+            "price": "$698.42"
+          },
+          {
+            "name": "METER BOX 3/4 G SERIES METER BOX",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-741",
+            "price": "$980.23"
+          }
+        ]
       },
       {
         "name": "Double Gulf Boxes",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER BOX 2 DOUBLE GULF BOXES",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-289",
+            "price": "$1101.10"
+          },
+          {
+            "name": "METER BOX 1 DOUBLE GULF BOXES",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-289",
+            "price": "$1053.58"
+          },
+          {
+            "name": "METER BOX 3/4 DOUBLE GULF BOXES",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-890",
+            "price": "$1095.66"
+          }
+        ]
       },
       {
         "name": "Repair Parts",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER BOX 1 REPAIR PARTS",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-167",
+            "price": "$674.46"
+          },
+          {
+            "name": "METER BOX 1 1/2 REPAIR PARTS",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-419",
+            "price": "$509.20"
+          },
+          {
+            "name": "METER BOX 3/4 REPAIR PARTS",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-662",
+            "price": "$738.74"
+          }
+        ]
       },
       {
         "name": "Yoke Boxes",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER BOX 3/4 YOKE BOXES",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-735",
+            "price": "$1142.82"
+          },
+          {
+            "name": "METER BOX 2 YOKE BOXES",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-531",
+            "price": "$952.93"
+          },
+          {
+            "name": "METER BOX 1 YOKE BOXES",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-788",
+            "price": "$436.22"
+          }
+        ]
       },
       {
         "name": "Long Yoke Boxes",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER BOX 3/4 LONG YOKE BOXES",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-430",
+            "price": "$443.92"
+          },
+          {
+            "name": "METER BOX 2 LONG YOKE BOXES",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-740",
+            "price": "$615.37"
+          },
+          {
+            "name": "METER BOX 1 1/2 LONG YOKE BOXES",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-268",
+            "price": "$625.99"
+          }
+        ]
       },
       {
         "name": "CR Boxes",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER BOX 2 CR BOXES",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-511",
+            "price": "$285.17"
+          },
+          {
+            "name": "METER BOX 1 1/2 CR BOXES",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-271",
+            "price": "$1095.99"
+          },
+          {
+            "name": "METER BOX 3/4 CR BOXES",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-107",
+            "price": "$402.00"
+          }
+        ]
       },
       {
         "name": "Lids",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER BOX 1 1/2 LIDS",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-721",
+            "price": "$465.46"
+          },
+          {
+            "name": "METER BOX 1 LIDS",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-834",
+            "price": "$825.62"
+          },
+          {
+            "name": "METER BOX 2 LIDS",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-672",
+            "price": "$1000.79"
+          }
+        ]
       },
       {
         "name": "Pro Box",
-        "items": []
+        "imgSrc": "/assets/meter boxes/6.svg",
+        "items": [
+          {
+            "name": "METER BOX 1 1/2 PRO BOX",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-741",
+            "price": "$1185.95"
+          },
+          {
+            "name": "METER BOX 1 PRO BOX",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-830",
+            "price": "$1197.87"
+          },
+          {
+            "name": "METER BOX 3/4 PRO BOX",
+            "imgSrc": "/assets/meter boxes/6.svg",
+            "id": "4000-317",
+            "price": "$473.52"
+          }
+        ]
       }
     ]
   }
