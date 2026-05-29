@@ -18,6 +18,7 @@ import { TechnicalShowcase } from "./components/TechnicalShowcase";
 import { ArchStyleCurbBox } from "./components/ArchStyleCurbBox";
 import { TrailerModal } from "./components/TrailerModal";
 import { H2OProductExplorer } from "./components/H2OProductExplorer";
+import { Taglines } from "./components/Taglines";
 
 
 export default function Home() {
@@ -27,6 +28,7 @@ export default function Home() {
         videoSrc="/assets/videos/102284_Drops of water falling onto water and splashing_By_Via_Films_Artlist_HD.mp4"
         gifSrc="/assets/umbrella_preview.gif"
       />
+      <Taglines />
       <TrailerModal videoSrc="/assets/videos/102284_Drops of water falling onto water and splashing_By_Via_Films_Artlist_HD.mp4" />
       <UltimateCurbBox />
       <TechnicalShowcase
